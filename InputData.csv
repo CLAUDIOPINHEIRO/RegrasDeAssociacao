@@ -1,0 +1,1003 @@
+Customer ID,Gender,Affinity,Annual Spend,Loyalty Program Member,Response Channel,CLV,Offer1,Offer2,Offer3,Offer4,Offer5,Offer6,Offer7,Offer8,Offer9,Offer10,Offer11
+10150,F,Womens Sportwear,411.354,NO,Mobile,41135.4,F,F,F,F,F,F,F,F,T,F,F
+10236,F,Mens Career,420.572,YES,Email,42057.2,F,F,F,F,F,T,T,F,F,F,F
+10360,M,Mens Sportswear,274.012,NO,Direct Mail,27401.2,F,F,F,T,F,T,T,F,F,T,F
+10451,M,Mens Sportswear,150.174,NO,Direct Mail,15017.4,F,F,F,T,F,T,T,F,F,F,T
+10609,F,Mens Casual,142.389,NO,Direct Mail,14238.9,T,F,F,F,F,F,F,F,F,T,F
+10614,M,Womens Shoes,190.425,NO,Email,19042.5,F,F,F,F,F,F,F,F,T,F,F
+10645,M,Mens Casual,184.803,YES,Mobile,18480.3,T,T,F,T,F,T,T,F,F,F,F
+10717,M,Mens Casual,472.705,NO,Mobile,47270.5,T,T,F,F,F,F,F,F,F,T,F
+10872,M,Womens Shoes,206.176,NO,Email,20617.6,F,T,T,T,F,T,T,F,F,T,F
+10902,M,Womens Career,267.182,NO,Mobile,26718.2,T,F,F,F,F,F,F,T,F,F,F
+10915,F,Womens Career,124.624,NO,Mobile,12462.4,T,F,T,F,T,T,F,F,F,T,F
+10944,M,Mens Sportswear,453.278,NO,Mobile,45327.8,F,T,T,T,F,T,T,F,F,F,F
+10987,F,Womens Career,377.075,YES,Email,37707.5,T,F,T,F,F,F,F,T,F,F,T
+11119,F,Home goods,294.205,YES,Direct Mail,29420.5,F,F,F,F,F,F,F,F,T,T,T
+11220,M,Womens Shoes,236.325,YES,Mobile,23632.5,F,F,F,T,F,T,T,F,F,F,T
+11230,M,Womens Sportwear,462.79,NO,Email,46279,F,F,T,F,F,F,F,F,F,T,T
+11236,M,Mens Casual,425.669,YES,Mobile,42566.9,F,F,F,F,F,F,F,F,F,F,F
+11241,M,Mens Sportswear,338.901,NO,Direct Mail,33890.1,T,T,F,T,F,T,T,F,F,T,F
+11357,F,Womens Shoes,107.53,YES,Email,10753,F,T,T,F,F,F,T,F,F,T,F
+11553,M,Womens Career,151.133,NO,Email,15113.3,F,F,F,F,F,F,F,F,F,F,T
+11565,F,Womens Shoes,449.745,NO,Email,44974.5,F,T,T,T,F,F,F,T,F,T,F
+11818,F,Womens Career,319.051,YES,Mobile,31905.1,F,T,F,F,F,F,F,F,F,F,F
+11966,M,Mens Career,221.877,NO,Mobile,22187.7,T,F,T,F,F,F,F,F,F,T,T
+12291,M,Womens Shoes,419.518,NO,Email,41951.8,F,F,F,F,F,F,F,T,F,F,T
+12312,F,Mens Casual,192.175,YES,Mobile,19217.5,F,T,F,F,F,T,F,F,T,F,F
+12547,M,Mens Career,323.073,YES,Mobile,32307.3,F,F,F,T,T,T,T,F,F,F,F
+12582,M,Mens Sportswear,256.014,NO,Email,25601.4,T,T,F,F,F,F,T,T,F,T,F
+12584,F,Womens Shoes,466.323,YES,Mobile,46632.3,T,F,F,F,F,F,T,T,F,F,T
+12694,F,Mens Casual,158.634,NO,Email,15863.4,T,F,F,F,F,F,F,F,F,F,T
+12782,F,Mens Sportswear,313.296,NO,Direct Mail,31329.6,F,F,F,T,F,F,T,F,F,F,F
+12800,F,Mens Casual,257.388,YES,Mobile,25738.8,T,F,F,F,F,F,F,F,F,F,F
+12938,F,Mens Sportswear,494.836,NO,Direct Mail,49483.6,F,F,F,T,F,T,F,F,T,F,F
+13325,F,Womens Shoes,412.805,NO,Mobile,41280.5,F,F,F,F,F,F,F,T,F,T,T
+13518,F,Mens Casual,163.794,YES,Mobile,16379.4,F,F,F,F,F,F,F,F,F,F,F
+13564,F,Home goods,315.83,YES,Direct Mail,31583,F,F,T,F,F,F,F,F,F,F,F
+13722,M,Womens Sportwear,362.168,NO,Mobile,36216.8,T,T,T,F,F,F,T,F,F,T,F
+13747,F,Mens Casual,123.374,NO,Mobile,12337.4,F,F,F,F,F,F,T,F,F,F,F
+13893,F,Womens Shoes,248.043,YES,Mobile,24804.3,F,T,F,T,T,T,F,F,F,T,F
+13903,F,Home goods,291.647,NO,Email,29164.7,T,T,T,T,T,F,F,F,T,F,F
+14015,M,Womens Shoes,318.657,NO,Email,31865.7,F,F,F,T,F,F,F,F,F,F,T
+14107,F,Womens Shoes,129.508,NO,Mobile,12950.8,F,T,F,F,F,F,F,F,F,T,F
+14301,M,Womens Sportwear,399.171,NO,Email,39917.1,F,T,T,T,F,T,T,F,F,T,T
+14368,F,Mens Career,349.178,NO,Direct Mail,34917.8,F,F,F,F,T,F,F,T,F,F,T
+14514,F,Womens Sportwear,316.016,YES,Mobile,31601.6,F,F,F,F,T,F,F,F,T,F,F
+14630,M,Womens Shoes,195.788,NO,Email,19578.8,F,F,F,T,F,T,T,F,F,F,F
+14658,F,Mens Career,468.048,YES,Mobile,46804.8,F,F,F,F,T,F,F,T,F,T,T
+14692,F,Mens Sportswear,408.875,YES,Mobile,40887.5,F,F,F,T,F,F,F,T,F,F,F
+14743,M,Home goods,216.813,YES,Email,21681.3,T,T,T,T,T,T,T,T,F,F,F
+14759,M,Home goods,148.671,YES,Mobile,14867.1,F,F,T,T,F,F,F,F,T,F,F
+14875,M,Mens Casual,185.153,YES,Direct Mail,18515.3,F,T,F,F,F,F,T,T,F,F,F
+14890,M,Mens Sportswear,318.997,YES,Direct Mail,31899.7,F,T,F,F,F,F,F,F,F,F,F
+14891,F,Home goods,183.91,NO,Email,18391,F,F,F,T,F,F,F,F,F,F,F
+14912,M,Home goods,391.559,YES,Direct Mail,39155.9,F,F,F,T,F,T,T,T,F,F,F
+14996,M,Womens Sportwear,222.591,YES,Email,22259.1,F,T,T,T,F,T,F,F,F,T,T
+15068,M,Mens Casual,178.948,YES,Direct Mail,17894.8,F,F,F,F,F,F,T,F,F,F,F
+15072,M,Womens Shoes,416.457,NO,Mobile,41645.7,F,F,F,T,F,F,F,F,F,T,F
+15099,M,Womens Career,112.731,NO,Mobile,11273.1,T,F,F,T,F,T,T,F,F,T,F
+15109,M,Mens Casual,135.356,YES,Mobile,13535.6,F,F,F,F,F,T,F,F,F,F,F
+15177,F,Mens Casual,247.919,NO,Mobile,24791.9,F,F,F,F,F,F,F,F,F,F,T
+15306,M,Womens Shoes,223.248,NO,Email,22324.8,F,F,F,T,T,T,T,F,F,F,F
+15317,M,Mens Career,438.941,YES,Mobile,43894.1,F,F,T,F,F,F,F,F,F,F,F
+15590,M,Mens Casual,440.704,NO,Email,44070.4,T,F,F,T,F,F,F,F,F,T,F
+15629,F,Mens Career,170.04,YES,Email,17004,F,F,F,F,F,T,F,F,F,T,F
+15650,M,Home goods,487.559,YES,Mobile,48755.9,F,F,F,F,F,F,F,F,F,T,F
+15663,F,Womens Shoes,451.901,YES,Mobile,45190.1,F,F,F,F,F,F,T,F,F,F,F
+15835,F,Home goods,243.642,YES,Email,24364.2,F,F,F,F,F,F,F,F,F,T,F
+15882,M,Home goods,207.035,YES,Email,20703.5,F,F,F,T,F,T,T,F,F,F,F
+16055,M,Womens Shoes,405.415,YES,Email,40541.5,F,F,F,F,F,F,F,F,F,T,F
+16220,M,Mens Career,347.872,NO,Direct Mail,34787.2,F,F,F,T,F,T,T,F,T,F,T
+16287,F,Mens Sportswear,425.534,NO,Email,42553.4,T,F,F,F,F,F,F,T,T,F,T
+16316,M,Womens Sportwear,391.701,NO,Direct Mail,39170.1,T,F,T,F,F,T,F,F,F,T,F
+16342,M,Mens Sportswear,463.814,NO,Mobile,46381.4,F,F,F,F,F,F,F,F,F,F,F
+16350,F,Mens Career,318.923,YES,Mobile,31892.3,T,T,F,F,F,F,F,F,F,F,F
+17064,F,Womens Shoes,153.259,YES,Direct Mail,15325.9,F,F,F,F,F,F,T,F,F,F,F
+17110,M,Mens Sportswear,127.214,YES,Email,12721.4,F,F,F,T,T,T,T,F,F,F,F
+17133,M,Mens Career,213.284,YES,Mobile,21328.4,T,F,F,F,F,T,F,T,T,F,F
+17201,M,Womens Career,377.746,NO,Mobile,37774.6,T,F,F,T,F,F,F,T,F,T,F
+17375,M,Womens Shoes,127.641,YES,Direct Mail,12764.1,F,F,F,F,T,F,F,F,F,F,F
+17470,F,Womens Career,190.756,NO,Email,19075.6,F,F,F,F,F,T,T,F,F,T,T
+17571,F,Womens Career,152.7,YES,Mobile,15270,T,F,T,F,F,T,T,F,F,F,F
+17590,M,Womens Shoes,301.201,YES,Mobile,30120.1,F,F,F,F,F,F,F,F,F,F,F
+17747,M,Mens Casual,338.601,YES,Mobile,33860.1,F,F,F,F,F,F,F,F,F,T,F
+17809,M,Womens Shoes,396.015,YES,Mobile,39601.5,F,F,F,F,F,F,F,F,F,F,T
+17830,F,Womens Shoes,280.198,NO,Mobile,28019.8,T,F,F,F,T,F,T,F,F,T,F
+17864,F,Home goods,356.562,NO,Direct Mail,35656.2,T,F,T,F,F,F,F,T,F,T,T
+17939,F,Womens Sportwear,158.755,NO,Email,15875.5,F,F,F,F,F,T,F,F,F,F,F
+18030,F,Mens Casual,129.942,YES,Mobile,12994.2,T,F,F,F,T,F,F,F,F,F,F
+18079,M,Home goods,248.16,YES,Mobile,24816,F,F,T,F,F,F,F,T,F,F,F
+18126,F,Womens Shoes,347.134,NO,Mobile,34713.4,T,F,F,T,F,F,F,T,T,T,F
+18143,F,Womens Sportwear,435.884,YES,Email,43588.4,T,F,F,F,T,T,F,F,F,F,F
+18228,M,Womens Sportwear,317.275,NO,Email,31727.5,F,F,F,T,F,F,F,F,F,F,F
+18331,F,Mens Sportswear,478.98,YES,Mobile,47898,T,F,F,F,F,T,F,T,F,F,T
+18334,F,Womens Shoes,424.343,NO,Email,42434.3,F,F,F,F,F,T,F,T,F,F,T
+18464,M,Home goods,209.389,YES,Mobile,20938.9,F,F,F,T,F,F,F,F,F,F,F
+18517,M,Womens Career,425.094,YES,Mobile,42509.4,T,T,F,T,F,T,T,F,F,F,F
+18708,F,Mens Sportswear,307.868,YES,Email,30786.8,F,F,F,T,T,T,T,F,F,T,F
+18724,F,Mens Career,491.775,NO,Email,49177.5,F,F,T,T,F,F,F,F,F,T,F
+18917,M,Womens Shoes,479.346,NO,Mobile,47934.6,F,T,T,T,F,T,T,F,F,F,T
+18920,M,Mens Sportswear,453.683,NO,Email,45368.3,F,F,F,T,F,F,F,T,T,F,F
+18953,F,Mens Career,242.569,NO,Mobile,24256.9,T,F,F,F,T,F,F,F,F,T,T
+19041,F,Mens Career,146.823,NO,Mobile,14682.3,T,T,F,T,F,F,F,F,F,T,F
+19078,M,Mens Career,388.52,YES,Email,38852,T,F,F,F,F,F,F,F,F,F,T
+19193,M,Womens Sportwear,223.496,NO,Mobile,22349.6,F,F,F,F,F,F,F,T,T,F,T
+19209,M,Womens Shoes,463.67,YES,Mobile,46367,T,T,F,T,F,T,T,F,F,F,F
+19211,M,Mens Casual,359.545,NO,Mobile,35954.5,F,F,F,T,F,T,T,F,F,F,T
+19268,F,Mens Casual,250.55,YES,Email,25055,F,F,F,F,F,F,F,F,F,F,F
+19519,M,Mens Sportswear,124.083,YES,Mobile,12408.3,F,F,T,F,F,T,T,F,F,F,T
+19613,F,Womens Sportwear,461.507,YES,Mobile,46150.7,F,F,F,F,T,F,F,F,F,F,F
+19915,F,Mens Sportswear,400.868,NO,Email,40086.8,T,F,F,F,T,F,F,F,F,T,F
+19999,F,Mens Career,171.606,NO,Mobile,17160.6,T,F,F,T,F,T,F,F,F,T,F
+20158,M,Mens Career,237.441,YES,Direct Mail,23744.1,F,F,F,F,T,F,F,F,F,T,F
+20260,M,Mens Sportswear,131.243,YES,Direct Mail,13124.3,F,F,F,T,F,F,F,F,F,F,T
+20325,M,Womens Career,153.56,YES,Mobile,15356,F,T,T,F,F,T,F,T,F,F,F
+20362,M,Womens Shoes,317.2,YES,Email,31720,F,T,T,F,F,T,F,F,F,T,F
+20386,F,Womens Sportwear,398.296,YES,Direct Mail,39829.6,F,F,T,F,F,F,F,F,F,F,F
+20521,M,Mens Sportswear,463,NO,Email,46300,T,F,F,T,F,F,F,T,F,F,F
+20556,M,Womens Shoes,204.104,NO,Mobile,20410.4,T,F,F,F,F,F,T,F,F,T,F
+20844,F,Home goods,243.927,YES,Email,24392.7,F,F,F,F,T,F,F,F,F,F,F
+20849,F,Mens Casual,449.825,NO,Email,44982.5,F,F,T,T,F,F,F,T,T,T,T
+20991,M,Womens Shoes,375.076,YES,Mobile,37507.6,F,F,F,T,F,T,T,F,F,F,F
+21187,F,Mens Sportswear,205.744,YES,Direct Mail,20574.4,F,T,F,F,F,F,T,F,F,F,F
+21347,F,Home goods,430.07,YES,Direct Mail,43007,F,F,F,F,T,T,F,F,F,F,T
+21543,F,Home goods,139.176,NO,Direct Mail,13917.6,F,F,F,T,F,T,F,T,T,F,F
+21787,M,Mens Career,195.369,NO,Email,19536.9,F,F,F,T,F,F,F,F,F,T,F
+21814,M,Mens Career,223.741,NO,Mobile,22374.1,F,F,F,T,T,T,T,F,F,F,F
+21875,F,Womens Shoes,107.267,NO,Email,10726.7,T,F,F,F,F,F,F,T,F,T,F
+22316,F,Womens Career,297.579,YES,Email,29757.9,F,F,F,T,T,F,F,T,T,F,F
+23037,F,Mens Sportswear,460.157,YES,Email,46015.7,T,F,F,T,F,F,F,F,T,F,F
+23380,M,Womens Shoes,364.903,NO,Direct Mail,36490.3,F,F,F,F,F,F,F,F,F,T,F
+23419,F,Womens Shoes,156.201,NO,Email,15620.1,F,F,F,T,T,F,F,T,T,F,F
+23501,M,Home goods,102.25,YES,Email,10225,F,F,F,F,F,F,F,T,T,T,T
+23682,M,Womens Sportwear,297.183,YES,Direct Mail,29718.3,F,F,F,T,F,T,T,T,F,F,F
+23718,M,Mens Casual,378.611,YES,Direct Mail,37861.1,F,F,F,T,F,T,F,T,F,T,F
+23784,F,Mens Sportswear,257.551,YES,Email,25755.1,F,F,T,F,F,F,F,F,F,F,F
+23845,F,Womens Shoes,124.227,YES,Mobile,12422.7,F,F,T,F,F,F,T,F,F,F,F
+24210,F,Womens Sportwear,304.335,YES,Mobile,30433.5,F,F,F,T,F,T,F,F,F,F,F
+24258,F,Womens Shoes,348.282,YES,Mobile,34828.2,F,F,F,F,F,F,F,F,F,F,F
+24493,M,Womens Sportwear,208.675,YES,Mobile,20867.5,T,T,F,F,F,F,F,F,F,T,F
+24534,F,Womens Sportwear,377.386,YES,Mobile,37738.6,T,F,F,F,F,F,F,F,T,F,T
+24566,F,Womens Shoes,394.489,YES,Mobile,39448.9,F,F,F,T,T,F,F,T,F,T,T
+24651,F,Womens Sportwear,321.216,NO,Email,32121.6,F,F,F,T,F,F,F,F,F,T,T
+24686,F,Home goods,382.775,NO,Mobile,38277.5,F,F,T,F,F,F,T,T,F,T,T
+24864,F,Womens Career,246.676,YES,Email,24667.6,T,F,F,T,F,T,F,F,F,F,F
+24874,F,Mens Career,359.38,YES,Email,35938,T,T,T,F,F,F,F,T,F,F,T
+25097,M,Mens Sportswear,200.102,NO,Email,20010.2,F,F,F,T,T,T,F,F,T,F,F
+25180,M,Womens Shoes,115.295,YES,Direct Mail,11529.5,F,F,F,F,F,F,F,F,F,F,F
+25256,M,Womens Career,396.933,NO,Mobile,39693.3,F,T,T,F,F,T,F,F,F,F,T
+25311,M,Mens Casual,475.451,YES,Mobile,47545.1,T,T,F,F,F,F,F,T,F,F,F
+25387,F,Womens Sportwear,114.154,YES,Mobile,11415.4,F,F,F,F,F,F,F,F,F,F,F
+25405,M,Mens Casual,364.166,NO,Mobile,36416.6,F,F,F,F,T,F,F,F,F,T,F
+25524,M,Mens Sportswear,459.486,NO,Mobile,45948.6,F,F,F,T,T,T,F,F,F,F,F
+25668,F,Womens Shoes,219.571,YES,Direct Mail,21957.1,F,F,F,F,F,F,F,T,F,F,T
+25765,F,Mens Sportswear,356.814,YES,Direct Mail,35681.4,F,F,F,F,F,F,F,T,F,F,T
+25774,F,Mens Casual,387.71,YES,Email,38771,F,T,F,T,T,F,F,T,T,T,T
+26061,M,Mens Sportswear,470.537,NO,Email,47053.7,T,T,F,T,T,T,T,F,F,T,F
+26130,F,Mens Casual,126.214,NO,Direct Mail,12621.4,F,F,F,T,F,F,F,T,F,F,F
+26291,F,Mens Career,140.896,YES,Mobile,14089.6,F,T,F,F,F,F,F,T,T,F,F
+26396,M,Womens Shoes,227.651,YES,Mobile,22765.1,F,F,F,T,F,F,F,F,F,F,F
+26630,F,Mens Sportswear,464.867,NO,Mobile,46486.7,F,T,T,F,F,F,F,T,F,T,F
+26748,F,Mens Casual,236.883,NO,Mobile,23688.3,F,T,T,F,F,F,F,T,F,F,F
+26885,M,Mens Career,331.864,YES,Email,33186.4,F,F,T,T,F,T,T,F,F,F,F
+27166,F,Mens Casual,134.513,YES,Email,13451.3,F,F,F,F,F,F,F,F,F,F,F
+27306,F,Home goods,173.906,NO,Direct Mail,17390.6,T,F,F,T,F,T,T,F,T,F,T
+27371,F,Mens Casual,387.433,NO,Direct Mail,38743.3,F,F,F,F,F,T,F,F,F,T,F
+27462,F,Womens Career,397.479,YES,Email,39747.9,F,F,F,F,F,F,T,F,T,F,F
+27496,F,Mens Career,163.272,NO,Mobile,16327.2,F,F,F,F,F,T,T,F,F,F,T
+27664,F,Mens Sportswear,356.361,YES,Email,35636.1,T,F,T,F,T,T,F,F,T,T,F
+27673,F,Womens Shoes,375.651,YES,Email,37565.1,F,F,T,F,F,T,T,T,F,F,T
+27682,F,Womens Career,182.962,YES,Direct Mail,18296.2,F,F,F,F,F,F,T,F,F,T,T
+27694,M,Womens Shoes,248.952,YES,Mobile,24895.2,F,F,T,T,T,T,T,F,T,F,F
+27720,F,Home goods,374.582,NO,Mobile,37458.2,F,F,F,F,F,T,F,F,F,T,F
+27766,F,Womens Shoes,400.773,NO,Mobile,40077.3,T,F,F,F,F,F,T,F,F,F,F
+27890,M,Womens Sportwear,222.416,YES,Mobile,22241.6,F,T,F,F,F,T,F,F,F,F,F
+28061,F,Mens Casual,372.245,YES,Mobile,37224.5,F,T,F,T,F,F,F,T,F,F,T
+28081,M,Mens Casual,261.124,NO,Mobile,26112.4,T,T,F,F,T,F,T,F,F,T,T
+28110,M,Mens Career,276.974,YES,Mobile,27697.4,F,F,F,F,F,T,F,F,F,F,F
+28138,F,Home goods,409.457,YES,Email,40945.7,F,F,F,F,F,F,F,F,F,T,F
+28233,F,Mens Casual,408.109,YES,Email,40810.9,T,F,F,F,F,F,T,T,F,T,T
+28268,M,Womens Shoes,108.787,NO,Email,10878.7,F,F,T,F,F,F,F,F,F,T,F
+28313,F,Womens Sportwear,348.889,NO,Email,34888.9,T,F,F,F,F,F,F,T,F,F,T
+28314,F,Home goods,388.062,YES,Mobile,38806.2,F,F,F,T,F,F,F,F,F,T,T
+28427,M,Womens Sportwear,129.735,NO,Direct Mail,12973.5,F,F,F,T,F,T,T,F,F,F,T
+28498,F,Mens Career,342.302,NO,Direct Mail,34230.2,F,F,F,F,F,F,F,T,F,F,F
+28528,F,Womens Shoes,407.113,YES,Direct Mail,40711.3,F,F,F,F,T,F,F,T,F,F,T
+28597,M,Mens Career,192.051,YES,Mobile,19205.1,F,F,F,T,T,T,T,F,F,F,F
+28629,M,Womens Shoes,448.107,NO,Email,44810.7,F,F,F,F,F,F,T,F,F,F,T
+28630,F,Womens Sportwear,304.989,NO,Direct Mail,30498.9,F,F,F,F,T,F,F,F,F,T,F
+28755,F,Mens Career,439.948,YES,Direct Mail,43994.8,F,F,F,F,F,F,F,F,F,T,T
+28803,M,Home goods,419.003,YES,Direct Mail,41900.3,F,F,F,T,F,T,T,F,F,T,F
+28935,F,Womens Sportwear,229.75,NO,Direct Mail,22975,T,T,T,F,F,T,F,F,F,F,F
+28959,M,Womens Sportwear,215.852,NO,Email,21585.2,F,F,F,F,F,T,F,F,F,F,F
+28977,M,Mens Career,372.656,NO,Mobile,37265.6,F,T,F,T,T,T,T,F,T,F,F
+28979,F,Womens Sportwear,358.494,YES,Direct Mail,35849.4,F,F,F,T,F,F,F,T,F,F,T
+28994,F,Womens Career,112.168,NO,Email,11216.8,T,F,F,F,T,F,F,F,F,T,F
+29095,M,Womens Career,467.096,NO,Direct Mail,46709.6,F,F,F,T,F,T,T,T,F,F,F
+29107,F,Womens Sportwear,323.863,NO,Email,32386.3,F,F,F,F,T,T,F,F,F,F,F
+29192,M,Womens Career,212.654,NO,Email,21265.4,F,T,F,F,F,F,F,F,F,F,T
+29224,F,Womens Career,409.484,NO,Mobile,40948.4,T,F,F,F,T,F,T,T,F,T,T
+29310,M,Womens Shoes,498.459,YES,Email,49845.9,F,F,F,F,F,F,F,T,T,F,F
+29316,M,Womens Sportwear,345.206,NO,Mobile,34520.6,F,F,F,T,F,T,T,F,T,F,F
+29343,F,Mens Sportswear,110.385,NO,Direct Mail,11038.5,T,T,F,F,F,F,F,T,F,F,T
+29367,M,Womens Career,433.149,YES,Direct Mail,43314.9,F,F,F,T,F,F,F,F,F,T,F
+29483,M,Mens Career,291.147,YES,Direct Mail,29114.7,T,F,F,F,F,F,F,F,F,F,F
+29524,F,Womens Shoes,107.127,YES,Email,10712.7,F,F,F,T,F,F,F,F,F,F,F
+29625,M,Womens Shoes,183.863,YES,Email,18386.3,F,F,F,F,F,F,F,F,F,F,F
+29640,F,Womens Sportwear,285.955,NO,Email,28595.5,F,F,F,T,T,T,F,T,F,F,F
+29944,M,Womens Career,428.985,NO,Email,42898.5,T,F,F,F,F,T,T,F,T,T,F
+30132,M,Mens Sportswear,239.357,NO,Email,23935.7,T,F,T,T,F,T,T,F,F,T,F
+30239,M,Mens Career,423.719,YES,Mobile,42371.9,T,F,T,F,F,F,F,F,T,F,F
+30243,M,Womens Shoes,303.916,YES,Email,30391.6,F,T,F,T,T,T,T,T,F,F,T
+30371,F,Home goods,308.872,YES,Mobile,30887.2,T,F,F,F,F,F,F,F,F,F,F
+30390,M,Mens Career,266.278,YES,Email,26627.8,F,F,F,F,F,F,F,F,T,F,F
+30423,F,Womens Career,449.42,YES,Direct Mail,44942,F,F,F,F,F,F,F,F,T,F,T
+30459,F,Home goods,326.755,NO,Direct Mail,32675.5,F,F,F,T,F,F,F,T,F,T,T
+30504,F,Womens Shoes,275.034,NO,Direct Mail,27503.4,F,T,F,F,F,F,F,F,F,T,F
+30558,F,Womens Sportwear,165.851,YES,Mobile,16585.1,F,F,F,F,F,F,F,F,F,T,F
+30850,F,Womens Shoes,171.818,NO,Email,17181.8,T,F,F,F,F,F,F,F,F,T,F
+30989,F,Womens Sportwear,259.133,NO,Mobile,25913.3,F,F,F,F,F,F,F,F,F,F,T
+31011,M,Home goods,395.627,NO,Mobile,39562.7,T,F,F,T,F,T,T,T,F,T,F
+31033,M,Mens Casual,415.652,NO,Mobile,41565.2,F,F,T,F,F,F,F,T,F,F,T
+31046,F,Home goods,165.846,YES,Email,16584.6,T,F,F,T,T,T,T,F,F,T,F
+31083,F,Womens Shoes,456.146,NO,Email,45614.6,T,T,F,T,F,F,F,T,T,T,T
+31384,M,Home goods,372.056,NO,Mobile,37205.6,F,F,F,T,F,F,F,F,F,F,F
+31552,M,Mens Sportswear,362.776,YES,Mobile,36277.6,T,F,T,F,F,F,F,F,F,F,T
+31828,M,Mens Career,304.26,NO,Mobile,30426,F,F,T,F,T,F,F,F,F,T,F
+31921,M,Home goods,344.264,YES,Direct Mail,34426.4,T,F,F,F,F,F,F,T,F,F,F
+32083,M,Womens Shoes,114.418,NO,Direct Mail,11441.8,F,T,T,F,T,F,F,F,F,F,F
+32160,F,Home goods,197.177,YES,Email,19717.7,F,F,F,F,F,T,T,F,F,F,T
+32182,F,Mens Casual,133.271,YES,Email,13327.1,F,F,F,F,F,F,T,F,F,F,F
+32302,F,Mens Casual,338.303,YES,Mobile,33830.3,F,F,F,F,F,F,F,F,F,F,F
+32369,M,Womens Shoes,219.204,YES,Direct Mail,21920.4,F,F,F,T,F,F,F,F,F,F,T
+32380,F,Home goods,111.224,YES,Mobile,11122.4,T,F,F,T,F,F,F,T,F,F,F
+32392,M,Mens Career,161.584,NO,Mobile,16158.4,T,F,F,F,F,F,F,F,F,T,F
+32408,F,Womens Career,385.706,YES,Email,38570.6,F,F,F,F,F,F,T,F,F,F,F
+32432,M,Home goods,283.847,YES,Direct Mail,28384.7,F,T,F,F,F,T,F,F,F,F,T
+32444,F,Womens Shoes,242.582,NO,Email,24258.2,T,F,T,F,F,F,F,F,F,T,F
+32594,F,Home goods,209.057,YES,Mobile,20905.7,F,F,F,F,F,F,F,F,F,F,F
+32646,M,Womens Shoes,265.31,YES,Direct Mail,26531,T,F,F,T,F,T,T,F,F,T,T
+32669,M,Womens Shoes,498.042,YES,Email,49804.2,T,F,F,F,F,T,F,F,F,F,F
+33056,M,Womens Shoes,144.013,NO,Direct Mail,14401.3,F,F,F,F,F,F,F,F,F,F,F
+33167,F,Mens Casual,242.185,NO,Email,24218.5,F,F,F,F,F,T,T,F,F,F,F
+33172,M,Mens Career,310.65,YES,Mobile,31065,F,T,F,F,F,F,F,F,F,F,T
+33173,F,Mens Sportswear,368.328,YES,Email,36832.8,F,T,T,F,F,F,F,T,F,F,T
+33233,M,Womens Career,247.74,YES,Mobile,24774,F,T,F,F,F,F,F,T,F,F,F
+33413,F,Mens Casual,379.016,NO,Email,37901.6,F,F,F,F,F,T,F,T,F,F,T
+33622,M,Mens Casual,392.378,NO,Email,39237.8,T,F,F,T,F,F,F,F,F,T,F
+33697,M,Womens Career,219.79,YES,Email,21979,F,F,F,F,T,F,F,T,F,F,T
+33891,F,Womens Shoes,120.017,YES,Mobile,12001.7,F,T,F,F,F,F,F,F,F,T,F
+34297,F,Womens Shoes,149.744,NO,Mobile,14974.4,F,F,F,F,F,F,F,F,F,F,F
+34529,F,Mens Sportswear,431.953,NO,Mobile,43195.3,T,F,F,F,T,F,F,F,F,T,T
+34593,M,Womens Career,358.231,YES,Mobile,35823.1,F,F,T,F,T,T,F,T,F,F,F
+34605,F,Womens Shoes,457.7,YES,Mobile,45770,F,F,F,T,T,F,F,T,T,F,T
+34702,M,Mens Sportswear,263.763,YES,Mobile,26376.3,T,F,F,F,F,F,F,F,F,T,F
+34750,F,Mens Casual,219.036,NO,Mobile,21903.6,T,F,F,T,T,F,T,F,F,F,F
+34756,F,Mens Casual,152.704,YES,Mobile,15270.4,F,F,F,F,F,F,F,F,F,F,F
+34809,F,Mens Career,327.941,NO,Email,32794.1,F,F,F,F,T,F,F,F,F,F,F
+35197,M,Mens Career,403.398,NO,Email,40339.8,F,F,F,F,F,T,T,T,F,T,F
+35262,M,Womens Career,262.512,YES,Direct Mail,26251.2,T,F,F,T,F,F,F,F,F,T,F
+35519,M,Womens Shoes,302.371,YES,Mobile,30237.1,F,F,F,F,F,T,F,F,F,F,F
+35561,M,Mens Career,344.236,YES,Email,34423.6,F,F,F,F,F,T,F,F,F,F,T
+35707,M,Womens Shoes,165.348,NO,Email,16534.8,F,F,F,F,F,F,F,F,T,T,F
+35904,F,Mens Career,380.608,NO,Direct Mail,38060.8,T,F,T,T,F,F,F,T,T,T,T
+35979,M,Womens Shoes,277.47,NO,Mobile,27747,F,F,F,F,F,F,F,F,F,T,F
+36040,M,Womens Shoes,373.032,NO,Email,37303.2,F,F,F,F,F,T,F,T,T,F,F
+36190,M,Womens Sportwear,284.132,YES,Direct Mail,28413.2,F,F,F,T,F,T,T,F,T,F,F
+36191,F,Mens Casual,464.275,NO,Direct Mail,46427.5,T,F,T,F,F,T,T,F,F,T,F
+36278,M,Womens Shoes,430.066,NO,Email,43006.6,F,T,F,F,F,T,F,F,T,F,F
+36364,F,Womens Shoes,197.256,YES,Mobile,19725.6,F,F,F,F,T,F,F,F,F,T,F
+36405,F,Home goods,348.222,YES,Direct Mail,34822.2,F,T,T,F,F,T,T,F,T,F,F
+36631,M,Mens Sportswear,270.515,YES,Email,27051.5,F,F,F,F,F,F,F,F,F,F,F
+36857,M,Womens Career,461.326,YES,Email,46132.6,F,T,F,F,F,F,F,F,F,F,F
+36863,F,Mens Career,394.701,YES,Mobile,39470.1,F,F,T,F,F,F,F,T,F,F,T
+36927,M,Home goods,201.812,NO,Direct Mail,20181.2,F,F,F,T,F,T,T,F,F,F,T
+36951,F,Mens Casual,129.531,YES,Direct Mail,12953.1,F,F,F,F,F,F,T,F,F,F,T
+37098,F,Mens Casual,266.378,YES,Mobile,26637.8,T,T,F,F,F,F,F,F,T,F,F
+37114,M,Womens Sportwear,480.396,NO,Email,48039.6,F,F,F,T,F,T,T,F,F,T,T
+37166,F,Womens Career,164.835,NO,Mobile,16483.5,T,F,F,F,F,F,T,F,F,T,F
+37305,M,Womens Career,339.607,NO,Mobile,33960.7,F,F,F,F,F,F,F,F,F,F,F
+37366,M,Mens Career,432.528,NO,Email,43252.8,T,F,T,F,T,F,F,F,F,T,F
+37523,F,Home goods,276.713,NO,Mobile,27671.3,T,T,T,T,F,F,F,T,T,T,F
+37567,M,Womens Shoes,417.778,NO,Mobile,41777.8,F,T,T,F,F,T,F,F,F,F,F
+37571,M,Mens Sportswear,180.642,NO,Email,18064.2,F,T,F,T,F,F,F,T,T,F,F
+37784,M,Home goods,490.631,YES,Mobile,49063.1,F,F,F,F,T,F,F,F,F,F,F
+37917,F,Womens Sportwear,229.288,NO,Email,22928.8,T,T,F,F,F,F,F,T,F,F,F
+37917,F,Womens Sportwear,229.288,NO,Email,22928.8,F,T,F,F,F,F,F,T,F,F,T
+37917,F,Womens Shoes,322.318,NO,Direct Mail,32231.8,T,T,F,F,F,F,F,T,F,F,F
+37917,F,Womens Shoes,322.318,NO,Direct Mail,32231.8,F,T,F,F,F,F,F,T,F,F,T
+37939,M,Mens Sportswear,497.316,YES,Mobile,49731.6,T,T,F,F,T,F,F,F,T,F,F
+38014,F,Mens Casual,233.31,NO,Direct Mail,23331,F,T,F,T,T,T,F,F,T,F,F
+38055,F,Mens Sportswear,144.497,YES,Mobile,14449.7,T,F,F,F,F,F,F,F,F,F,F
+38063,F,Home goods,360.742,NO,Email,36074.2,T,F,F,F,F,F,F,T,F,T,T
+38097,M,Womens Sportwear,371.385,NO,Email,37138.5,T,F,F,T,T,T,T,T,F,T,F
+38360,F,Womens Shoes,350.157,YES,Email,35015.7,F,F,F,T,F,F,F,F,F,F,F
+38468,F,Womens Shoes,427.908,YES,Mobile,42790.8,F,F,F,F,F,F,F,F,F,F,F
+38477,M,Womens Career,138.168,YES,Email,13816.8,F,T,F,F,F,F,F,F,F,F,T
+38600,M,Womens Sportwear,474.76,NO,Mobile,47476,F,F,F,F,F,F,F,T,F,F,T
+38608,M,Home goods,427.334,YES,Mobile,42733.4,F,T,F,F,F,F,T,F,F,F,F
+38645,F,Mens Casual,472.099,YES,Email,47209.9,T,F,F,F,T,F,T,T,F,T,T
+38723,F,Mens Career,171.59,NO,Direct Mail,17159,T,F,F,F,F,F,T,F,T,T,F
+38765,M,Home goods,222.034,YES,Email,22203.4,F,T,T,F,F,F,T,F,F,F,F
+39042,F,Womens Shoes,498.321,NO,Email,49832.1,F,F,F,F,T,F,F,T,F,F,T
+39077,M,Womens Shoes,205.746,NO,Mobile,20574.6,F,T,F,F,T,F,F,F,F,F,F
+39080,F,Home goods,183.878,YES,Mobile,18387.8,F,F,F,T,F,F,F,F,F,T,F
+39081,M,Home goods,475.807,YES,Direct Mail,47580.7,F,T,T,T,T,T,T,T,T,F,F
+39221,M,Mens Sportswear,353.104,NO,Mobile,35310.4,F,T,F,F,T,F,F,F,F,F,F
+39581,F,Mens Career,292.526,YES,Email,29252.6,F,F,F,F,F,F,F,F,F,F,F
+39715,M,Womens Shoes,282.126,YES,Email,28212.6,T,F,F,F,F,F,F,F,F,F,F
+39808,M,Womens Sportwear,427.123,NO,Direct Mail,42712.3,F,T,T,T,F,F,F,F,F,T,T
+39817,F,Home goods,132.005,YES,Email,13200.5,F,F,F,F,F,F,T,F,F,F,F
+39884,M,Womens Shoes,312.737,NO,Email,31273.7,F,F,F,F,F,F,F,T,F,F,F
+39914,F,Womens Sportwear,367.285,YES,Mobile,36728.5,T,F,T,F,F,F,F,F,F,F,F
+39952,M,Mens Sportswear,353.369,NO,Mobile,35336.9,F,F,F,T,F,T,T,F,T,F,F
+39970,M,Mens Career,467.406,YES,Direct Mail,46740.6,F,F,F,T,F,T,T,F,F,F,F
+40090,F,Womens Career,414.851,YES,Direct Mail,41485.1,F,F,F,T,F,T,F,F,F,F,F
+40208,F,Womens Sportwear,231.67,NO,Email,23167,T,T,F,F,T,T,F,F,F,F,F
+40282,F,Home goods,335.207,YES,Email,33520.7,F,F,T,F,F,T,F,T,F,F,T
+40459,F,Womens Sportwear,379.935,NO,Mobile,37993.5,F,F,T,F,F,F,F,T,F,F,T
+40505,F,Womens Shoes,430.394,NO,Mobile,43039.4,F,T,T,F,F,F,F,T,F,F,T
+40542,F,Womens Shoes,442.289,NO,Mobile,44228.9,F,F,F,F,F,F,F,F,F,F,F
+40579,F,Mens Career,495.42,YES,Email,49542,F,F,F,F,F,F,F,T,F,F,T
+40659,M,Womens Sportwear,274.8,YES,Mobile,27480,F,F,F,T,F,T,T,F,F,F,F
+40690,M,Womens Shoes,286.205,NO,Email,28620.5,F,F,F,T,F,T,F,F,T,F,F
+40743,M,Womens Shoes,253.732,YES,Mobile,25373.2,F,F,T,F,F,F,F,F,F,F,F
+40789,F,Mens Casual,111.86,NO,Email,11186,T,F,T,F,F,F,F,F,F,T,T
+40949,M,Mens Sportswear,101.17,YES,Email,10117,T,F,T,T,T,T,T,F,F,F,F
+41132,F,Womens Career,184.412,NO,Direct Mail,18441.2,F,F,F,T,F,F,F,F,F,F,T
+41157,F,Womens Sportwear,202.332,NO,Email,20233.2,T,F,T,F,T,T,F,F,T,F,F
+41792,M,Womens Career,145.692,NO,Email,14569.2,T,T,T,F,F,F,F,F,F,T,F
+41805,M,Mens Career,485.787,NO,Email,48578.7,F,F,F,T,F,T,T,F,F,T,T
+41841,M,Womens Career,182.815,NO,Email,18281.5,T,T,T,T,F,F,F,F,T,F,T
+41866,F,Mens Casual,204.519,NO,Email,20451.9,F,F,F,F,F,F,F,F,F,F,F
+41996,F,Mens Casual,283.472,YES,Mobile,28347.2,F,F,T,F,F,F,F,F,F,F,T
+42037,M,Womens Career,497.612,NO,Email,49761.2,F,F,F,F,T,F,F,F,F,F,F
+42056,F,Womens Career,448.521,YES,Mobile,44852.1,F,F,F,F,F,F,F,T,F,T,F
+42163,M,Womens Sportwear,449.981,NO,Email,44998.1,T,F,F,F,F,F,F,F,F,F,F
+42167,F,Womens Shoes,106.201,NO,Mobile,10620.1,F,T,F,T,F,F,F,F,F,T,F
+42381,M,Mens Casual,460.621,NO,Email,46062.1,F,F,F,T,T,T,T,T,F,T,F
+42459,F,Womens Shoes,326.446,YES,Mobile,32644.6,F,F,F,F,T,T,F,T,T,F,T
+42524,F,Mens Career,142.989,NO,Direct Mail,14298.9,T,T,T,F,F,F,F,F,T,T,F
+42583,F,Mens Casual,356.757,YES,Email,35675.7,F,F,F,F,F,F,F,F,F,F,F
+42653,M,Home goods,140.502,YES,Mobile,14050.2,F,F,F,F,F,F,F,F,T,F,F
+42689,F,Mens Career,122.038,NO,Mobile,12203.8,T,F,F,F,F,F,F,F,F,F,T
+42778,M,Home goods,352.808,YES,Email,35280.8,F,F,T,T,F,T,T,F,T,F,F
+42927,F,Womens Sportwear,256.375,YES,Mobile,25637.5,F,F,F,F,F,F,F,F,F,F,F
+43044,M,Mens Casual,298.836,YES,Email,29883.6,T,T,F,F,F,F,F,F,T,F,F
+43111,F,Mens Casual,434.371,YES,Email,43437.1,F,F,T,T,F,F,F,F,T,F,F
+43228,M,Womens Shoes,400.922,NO,Email,40092.2,T,F,F,F,F,F,F,F,F,F,F
+43401,M,Womens Shoes,294.406,NO,Email,29440.6,T,F,F,T,F,T,T,F,F,T,F
+43498,F,Mens Career,336.065,YES,Direct Mail,33606.5,F,F,F,F,F,F,F,F,F,F,F
+43550,M,Mens Sportswear,105.365,NO,Email,10536.5,F,F,F,T,F,F,F,F,F,T,F
+43557,F,Womens Shoes,245.056,YES,Email,24505.6,T,F,F,F,F,F,F,F,F,F,F
+43800,F,Mens Career,442.831,YES,Mobile,44283.1,F,F,F,T,F,F,T,T,F,F,T
+43962,M,Mens Sportswear,116.764,NO,Direct Mail,11676.4,F,F,F,F,F,F,F,F,F,T,F
+43964,F,Womens Shoes,294.585,NO,Email,29458.5,T,F,F,T,F,F,F,T,F,F,F
+44235,F,Womens Career,277.268,YES,Email,27726.8,F,F,T,F,F,F,T,T,F,F,T
+44294,M,Mens Casual,385.314,NO,Email,38531.4,F,F,T,T,F,T,T,F,F,F,F
+44452,F,Mens Sportswear,126.097,NO,Mobile,12609.7,T,F,F,F,T,F,T,F,F,F,F
+44562,F,Home goods,135.32,YES,Direct Mail,13532,F,F,F,F,F,T,F,F,T,F,F
+44594,F,Home goods,466.746,YES,Email,46674.6,F,F,F,F,F,F,F,T,F,F,T
+44775,F,Mens Sportswear,235.745,NO,Direct Mail,23574.5,T,F,F,F,F,F,T,T,F,T,F
+44825,F,Mens Casual,369.448,NO,Mobile,36944.8,F,T,F,F,F,F,F,F,F,T,T
+44887,M,Womens Shoes,468.983,YES,Mobile,46898.3,T,F,F,F,F,F,F,F,F,F,F
+45019,M,Mens Casual,472.341,NO,Mobile,47234.1,F,T,F,F,F,F,F,F,F,F,F
+45102,M,Womens Sportwear,325.518,NO,Email,32551.8,T,F,F,F,F,T,F,F,F,T,F
+45375,M,Mens Sportswear,394.947,NO,Mobile,39494.7,F,F,F,F,T,T,F,F,F,F,F
+45992,F,Mens Career,136.452,YES,Email,13645.2,F,F,F,F,F,F,F,F,F,F,F
+46005,M,Womens Shoes,308.594,NO,Mobile,30859.4,F,F,F,F,F,F,F,F,F,F,F
+46054,M,Womens Shoes,142.814,NO,Mobile,14281.4,F,T,F,T,T,T,T,F,T,F,T
+46071,F,Mens Career,181.207,NO,Email,18120.7,T,F,F,F,F,F,F,F,T,T,F
+46278,M,Womens Shoes,340.079,NO,Mobile,34007.9,T,T,F,T,F,F,T,F,F,F,F
+46419,F,Home goods,453.239,NO,Mobile,45323.9,F,F,F,T,F,F,F,F,F,T,T
+46471,M,Womens Career,254.795,YES,Direct Mail,25479.5,F,F,F,F,F,F,F,F,F,F,F
+46539,M,Mens Casual,383.992,NO,Direct Mail,38399.2,T,F,T,F,T,F,F,F,F,T,F
+46686,F,Home goods,295.925,NO,Direct Mail,29592.5,F,F,T,F,F,F,F,F,F,F,F
+46730,F,Mens Casual,416.178,NO,Mobile,41617.8,T,F,F,T,F,F,F,F,F,T,F
+47136,F,Womens Career,220.32,NO,Email,22032,F,F,F,F,F,F,F,F,F,T,F
+47251,F,Home goods,464.065,YES,Mobile,46406.5,T,T,F,T,F,F,F,T,T,T,T
+47307,F,Womens Career,298.812,NO,Mobile,29881.2,F,F,F,F,F,F,F,F,F,F,F
+47330,F,Mens Career,209.348,YES,Email,20934.8,T,F,F,F,F,T,F,T,F,F,T
+47341,M,Home goods,319.765,NO,Mobile,31976.5,T,F,F,F,F,T,F,F,F,T,T
+47343,F,Womens Sportwear,489.554,YES,Mobile,48955.4,F,T,F,F,F,T,F,T,F,F,T
+47421,M,Womens Shoes,287.408,YES,Email,28740.8,F,F,F,F,F,F,F,F,F,F,F
+47441,F,Womens Career,135.428,YES,Mobile,13542.8,F,T,F,F,F,T,F,F,F,F,T
+47489,M,Mens Career,230.236,YES,Mobile,23023.6,F,F,F,F,F,F,F,T,F,F,T
+47547,F,Mens Casual,428.159,YES,Email,42815.9,F,F,F,F,F,F,F,F,T,F,F
+47598,F,Mens Casual,429.427,YES,Mobile,42942.7,T,F,F,F,F,F,T,T,F,F,T
+47638,M,Mens Sportswear,256.66,YES,Email,25666,F,F,F,T,F,T,T,F,F,F,F
+47645,F,Mens Casual,356.412,NO,Email,35641.2,F,F,F,F,F,F,F,F,F,F,F
+47913,F,Womens Career,490.675,NO,Direct Mail,49067.5,F,F,T,F,F,F,F,T,F,F,T
+47914,F,Womens Shoes,445.913,YES,Email,44591.3,F,T,F,F,F,F,F,T,F,T,T
+47923,M,Mens Sportswear,260.39,YES,Mobile,26039,F,F,T,T,F,F,T,F,T,F,F
+48247,F,Womens Sportwear,486.794,NO,Direct Mail,48679.4,F,F,F,F,F,F,F,F,F,F,F
+48749,F,Mens Casual,184.71,YES,Mobile,18471,F,F,F,F,F,F,F,F,F,T,F
+48783,M,Mens Casual,246.1,NO,Mobile,24610,T,F,F,T,F,T,T,F,F,F,F
+48893,F,Home goods,283.283,YES,Direct Mail,28328.3,F,F,F,F,F,F,F,F,F,F,T
+48896,F,Womens Career,304.368,YES,Email,30436.8,F,F,F,F,F,F,F,F,F,F,F
+49085,M,Home goods,261.937,NO,Mobile,26193.7,F,F,F,F,F,F,F,T,F,T,T
+49225,F,Womens Shoes,138.218,YES,Mobile,13821.8,F,F,F,F,F,F,F,F,F,F,F
+49632,M,Womens Career,107.717,NO,Mobile,10771.7,F,F,F,T,T,F,F,F,F,T,T
+49658,M,Womens Shoes,172.076,YES,Mobile,17207.6,F,T,F,T,F,F,F,F,T,F,T
+49769,M,Womens Sportwear,200.58,YES,Mobile,20058,F,T,F,F,F,F,F,F,F,F,F
+49861,M,Mens Career,388.491,YES,Email,38849.1,F,F,F,F,F,F,T,F,F,F,F
+50064,M,Mens Career,470.822,NO,Mobile,47082.2,T,F,T,T,F,T,T,F,F,T,F
+50087,F,Womens Sportwear,409.255,NO,Mobile,40925.5,F,F,F,F,F,F,F,T,F,F,F
+50104,M,Womens Career,256.03,NO,Email,25603,T,F,F,F,F,F,T,F,F,T,F
+50142,M,Womens Career,177.878,YES,Mobile,17787.8,F,F,F,F,F,F,F,T,F,F,F
+50150,F,Womens Shoes,395.248,NO,Email,39524.8,T,F,F,F,F,F,F,T,T,T,F
+50180,M,Mens Sportswear,355.435,YES,Email,35543.5,F,F,F,T,T,F,F,F,T,F,T
+50258,F,Mens Casual,430.885,YES,Email,43088.5,F,T,F,F,F,F,F,F,F,F,F
+50324,M,Mens Casual,201.004,YES,Email,20100.4,F,T,F,F,F,F,F,F,T,T,F
+50531,F,Mens Career,374.002,YES,Mobile,37400.2,T,T,T,F,F,F,F,F,F,F,F
+50551,F,Womens Shoes,276.473,NO,Mobile,27647.3,T,F,T,T,F,T,F,F,T,F,F
+50633,M,Womens Sportwear,230.638,YES,Direct Mail,23063.8,F,F,F,F,F,F,F,F,F,F,T
+50645,F,Mens Career,316.988,YES,Direct Mail,31698.8,F,T,F,F,F,T,F,F,F,F,F
+50647,M,Womens Shoes,385.632,YES,Mobile,38563.2,F,F,F,T,F,F,F,F,F,F,F
+50961,F,Home goods,240.284,YES,Email,24028.4,F,F,F,F,F,F,T,F,F,F,F
+51183,F,Mens Casual,223.157,NO,Email,22315.7,F,F,F,F,F,F,F,F,F,F,F
+51384,F,Mens Casual,148.697,NO,Email,14869.7,F,F,F,F,F,F,F,F,F,T,F
+51732,M,Home goods,410.697,YES,Email,41069.7,F,T,F,T,F,T,T,F,F,F,F
+51818,M,Mens Career,166.528,NO,Mobile,16652.8,T,F,F,F,F,F,F,F,F,F,F
+51846,F,Mens Sportswear,370.748,NO,Mobile,37074.8,T,F,F,F,F,F,F,F,F,T,F
+51916,F,Mens Sportswear,247.427,NO,Email,24742.7,F,F,T,F,T,F,T,F,T,F,F
+51939,M,Womens Sportwear,432.419,YES,Mobile,43241.9,F,F,F,T,F,T,T,T,F,F,F
+51979,M,Womens Career,205.285,YES,Mobile,20528.5,F,F,F,T,T,T,T,F,F,F,T
+52011,F,Home goods,391.196,NO,Email,39119.6,F,F,F,F,F,F,T,F,F,F,F
+52128,M,Womens Sportwear,136.852,YES,Mobile,13685.2,F,F,F,T,F,T,F,F,F,F,F
+52359,F,Womens Shoes,262.052,NO,Direct Mail,26205.2,T,F,F,F,F,T,F,T,F,T,F
+52421,M,Womens Career,317.355,NO,Mobile,31735.5,T,F,F,T,T,T,T,T,T,T,F
+52451,M,Mens Career,490.56,NO,Direct Mail,49056,F,T,T,F,F,F,F,T,F,F,F
+52530,F,Mens Career,280.822,NO,Email,28082.2,F,F,F,F,F,F,F,F,T,F,F
+52903,M,Mens Career,386.381,YES,Email,38638.1,F,F,F,F,F,F,F,F,F,F,F
+53320,M,Womens Shoes,462.7,YES,Mobile,46270,F,F,F,F,T,F,F,F,T,T,F
+53750,F,Home goods,385.113,YES,Direct Mail,38511.3,F,F,F,T,F,F,F,F,F,T,T
+53953,F,Womens Shoes,269.729,NO,Mobile,26972.9,T,T,F,F,F,F,F,F,T,F,F
+53959,F,Mens Casual,408.684,YES,Email,40868.4,F,T,T,F,F,F,T,F,T,F,T
+54152,M,Womens Shoes,205.95,YES,Mobile,20595,F,F,F,F,F,T,T,T,F,F,F
+54172,F,Womens Career,104.023,YES,Direct Mail,10402.3,F,T,F,F,F,F,T,F,F,T,F
+54180,M,Home goods,430.372,NO,Email,43037.2,F,T,F,T,F,T,T,F,F,F,F
+54190,F,Womens Shoes,364.736,YES,Email,36473.6,F,F,F,F,F,F,F,F,F,F,F
+54313,M,Home goods,306.545,NO,Email,30654.5,T,F,F,F,F,F,F,F,T,T,T
+54314,F,Womens Sportwear,312.939,YES,Email,31293.9,F,T,F,F,F,F,F,F,F,F,F
+54462,M,Womens Career,388.386,NO,Email,38838.6,F,F,T,T,F,T,T,T,F,F,F
+54981,M,Mens Sportswear,492.205,YES,Email,49220.5,F,F,F,T,T,F,F,T,F,F,F
+55091,M,Womens Shoes,402.274,NO,Email,40227.4,F,F,F,F,T,F,T,F,F,F,F
+55295,F,Mens Sportswear,326.529,NO,Mobile,32652.9,T,F,T,F,T,T,F,F,F,F,F
+55418,F,Home goods,208.812,YES,Mobile,20881.2,T,F,F,F,F,F,F,F,F,F,F
+55550,M,Home goods,314.75,NO,Email,31475,T,F,F,F,F,T,F,T,F,F,F
+55552,M,Womens Shoes,416.462,YES,Mobile,41646.2,T,F,F,F,F,F,F,F,F,T,F
+55625,F,Womens Career,448.626,NO,Mobile,44862.6,T,T,F,F,T,F,F,T,T,F,T
+55629,M,Womens Sportwear,496.018,YES,Email,49601.8,F,F,F,F,F,F,F,F,F,T,F
+55652,M,Womens Career,417.166,NO,Mobile,41716.6,T,F,F,T,F,T,T,F,F,T,F
+55951,M,Mens Career,156.793,NO,Mobile,15679.3,F,F,F,F,F,F,F,T,F,F,T
+55992,M,Womens Shoes,172.856,YES,Email,17285.6,F,F,F,F,T,F,F,F,T,T,F
+56034,M,Womens Sportwear,412.711,NO,Email,41271.1,T,T,F,T,F,T,T,F,F,T,F
+56097,F,Womens Sportwear,467.188,YES,Email,46718.8,F,F,F,F,F,F,F,T,F,F,T
+56220,F,Mens Career,126.155,YES,Mobile,12615.5,F,T,F,F,T,F,F,F,F,F,F
+56258,F,Mens Career,215.804,NO,Mobile,21580.4,T,F,F,F,F,F,F,T,T,F,F
+56452,M,Womens Shoes,208.234,NO,Direct Mail,20823.4,T,T,F,F,T,F,F,F,F,F,T
+56677,F,Womens Career,303.099,NO,Email,30309.9,T,F,F,F,F,F,F,F,F,F,F
+56851,M,Womens Shoes,216.406,NO,Mobile,21640.6,F,F,F,T,F,T,T,F,F,F,F
+56885,M,Womens Shoes,335.694,NO,Direct Mail,33569.4,F,T,F,T,T,T,T,F,T,F,T
+57068,M,Mens Career,228.535,NO,Direct Mail,22853.5,F,F,T,T,F,F,F,F,F,T,F
+57101,M,Mens Career,207.588,YES,Mobile,20758.8,T,F,F,F,F,T,F,F,F,F,F
+57102,M,Home goods,199.099,NO,Email,19909.9,F,F,F,T,F,T,T,F,F,T,F
+57207,M,Womens Shoes,391.627,YES,Direct Mail,39162.7,F,F,T,F,F,F,F,T,F,F,T
+57268,M,Womens Shoes,250.267,YES,Email,25026.7,T,T,F,F,F,F,F,F,T,F,F
+57582,M,Home goods,246.694,YES,Email,24669.4,F,F,T,F,T,F,F,F,F,F,F
+57615,M,Womens Sportwear,467.916,YES,Mobile,46791.6,T,F,F,F,T,F,F,F,F,F,T
+57678,M,Womens Shoes,476.595,NO,Direct Mail,47659.5,F,F,F,F,F,T,F,F,F,F,F
+57762,M,Womens Shoes,267.967,YES,Email,26796.7,T,F,F,F,T,F,F,F,F,F,F
+57851,F,Womens Shoes,295.62,YES,Email,29562,T,F,F,F,T,F,T,F,F,F,T
+57952,F,Womens Career,351.487,NO,Direct Mail,35148.7,F,F,F,T,F,F,F,T,F,F,T
+58144,F,Home goods,288.307,NO,Mobile,28830.7,F,F,F,F,T,T,F,F,F,F,F
+58154,M,Mens Sportswear,491.367,NO,Direct Mail,49136.7,F,F,F,F,T,F,F,F,F,F,F
+58188,M,Home goods,360.631,NO,Mobile,36063.1,T,F,F,F,T,F,F,F,F,T,F
+58235,F,Womens Sportwear,481.146,NO,Email,48114.6,F,F,F,T,F,F,F,T,F,F,T
+58288,M,Mens Career,144.81,NO,Mobile,14481,F,F,F,F,F,F,F,F,F,F,F
+58341,F,Mens Career,328.363,YES,Email,32836.3,F,F,F,T,T,F,F,F,F,F,F
+58343,M,Womens Shoes,133.662,YES,Mobile,13366.2,F,F,T,F,F,F,F,F,F,F,T
+58388,M,Mens Casual,187.703,NO,Direct Mail,18770.3,F,F,F,F,T,F,T,F,T,F,F
+58485,M,Mens Career,355.474,NO,Direct Mail,35547.4,T,F,F,F,F,T,F,F,F,F,T
+58566,M,Mens Casual,376.643,NO,Email,37664.3,F,T,F,F,F,F,F,F,T,F,F
+58768,F,Mens Sportswear,180.798,YES,Direct Mail,18079.8,F,F,F,F,F,F,F,T,T,F,F
+58803,M,Mens Casual,112.921,NO,Direct Mail,11292.1,F,T,F,T,F,T,T,F,F,F,T
+58914,F,Womens Shoes,289.163,YES,Mobile,28916.3,F,F,F,F,F,T,F,F,F,F,F
+59071,F,Womens Shoes,280.768,YES,Direct Mail,28076.8,F,F,F,F,T,F,T,F,F,T,F
+59184,F,Womens Sportwear,124.807,NO,Email,12480.7,F,T,F,F,F,F,F,F,F,F,F
+59297,F,Womens Sportwear,493.566,NO,Direct Mail,49356.6,F,F,F,T,T,F,T,T,F,F,T
+59349,M,Womens Career,284.931,YES,Mobile,28493.1,T,F,F,T,F,T,T,F,T,F,F
+59352,F,Womens Career,494.212,YES,Email,49421.2,F,F,F,F,F,F,F,T,F,T,T
+59389,F,Womens Sportwear,395.687,NO,Mobile,39568.7,F,F,F,T,F,F,F,F,F,F,F
+59439,M,Womens Career,207.784,YES,Email,20778.4,T,F,F,F,F,F,T,F,F,F,F
+59480,F,Womens Shoes,103.282,NO,Email,10328.2,T,T,T,T,F,F,F,T,F,T,F
+59580,M,Home goods,408.781,YES,Email,40878.1,T,F,T,T,F,T,T,F,F,F,F
+59590,M,Mens Career,279.826,YES,Mobile,27982.6,F,F,T,T,F,T,T,F,T,F,F
+59599,F,Mens Casual,274.881,YES,Email,27488.1,F,F,F,F,T,T,T,F,F,F,F
+60073,M,Mens Casual,116.56,YES,Mobile,11656,F,F,F,F,F,F,F,T,F,T,F
+60153,M,Womens Shoes,471.56,YES,Mobile,47156,F,T,F,F,T,F,T,T,F,F,F
+60159,M,Mens Sportswear,432.178,NO,Mobile,43217.8,F,F,F,T,F,T,T,F,F,F,F
+60240,M,Home goods,219.871,YES,Email,21987.1,F,F,F,F,F,F,F,F,F,F,F
+60499,M,Womens Shoes,118.442,YES,Email,11844.2,T,T,F,T,F,F,F,F,F,T,F
+60571,F,Mens Career,246.707,NO,Email,24670.7,F,F,F,F,F,T,F,F,F,T,F
+60688,M,Womens Sportwear,371.075,NO,Email,37107.5,F,F,F,F,F,F,F,F,F,F,F
+60755,F,Mens Casual,137.796,YES,Email,13779.6,T,T,T,F,F,F,F,F,F,T,F
+60820,F,Womens Sportwear,329.802,NO,Email,32980.2,F,F,F,T,F,F,F,F,F,F,F
+60890,M,Mens Career,446.318,NO,Mobile,44631.8,F,T,F,T,F,T,T,F,T,T,T
+61011,M,Womens Sportwear,181.253,YES,Email,18125.3,F,F,F,F,F,F,T,F,F,F,T
+61107,F,Home goods,303.14,YES,Mobile,30314,T,F,T,F,F,F,F,F,F,F,F
+61144,F,Mens Career,103.736,NO,Email,10373.6,T,T,T,F,F,F,F,F,T,T,F
+61159,M,Womens Shoes,472.278,NO,Mobile,47227.8,T,T,F,F,T,F,F,F,T,T,F
+61255,F,Mens Sportswear,495.666,NO,Email,49566.6,F,F,T,F,F,F,F,T,T,F,T
+61270,M,Womens Career,319.036,NO,Mobile,31903.6,F,F,F,F,F,F,F,T,F,F,F
+61309,M,Womens Career,225.496,YES,Direct Mail,22549.6,F,F,F,F,T,F,F,T,F,F,F
+61329,F,Mens Casual,269.282,YES,Mobile,26928.2,T,F,F,F,F,F,F,F,F,F,F
+61342,F,Mens Career,265.892,NO,Email,26589.2,F,F,F,T,T,F,T,F,F,F,F
+61618,F,Womens Shoes,344.744,YES,Direct Mail,34474.4,F,F,F,T,F,F,F,F,F,F,T
+61789,M,Mens Sportswear,143.525,NO,Email,14352.5,F,F,F,T,F,F,T,F,F,T,F
+61869,M,Womens Shoes,318.011,NO,Email,31801.1,T,F,F,T,F,T,T,T,F,F,F
+62022,F,Home goods,427.131,NO,Email,42713.1,F,F,F,F,F,F,F,T,F,F,T
+62060,M,Womens Shoes,407.025,YES,Mobile,40702.5,F,F,F,T,F,T,T,F,F,F,F
+62175,M,Mens Casual,179.183,NO,Email,17918.3,T,T,F,T,T,T,T,F,F,T,F
+62264,M,Womens Shoes,433.344,YES,Mobile,43334.4,F,F,F,F,F,F,F,F,F,F,T
+62455,F,Womens Career,352.522,YES,Mobile,35252.2,F,F,F,F,F,F,F,F,F,T,F
+62789,M,Womens Career,151.609,NO,Email,15160.9,T,F,F,T,F,T,T,F,F,F,F
+62993,F,Mens Sportswear,360.895,YES,Mobile,36089.5,F,F,T,F,F,F,F,F,F,F,F
+62995,F,Mens Career,140.467,YES,Email,14046.7,T,T,T,F,F,F,F,F,T,F,F
+63138,M,Mens Career,169.606,NO,Direct Mail,16960.6,T,F,F,F,F,T,F,F,F,T,F
+63368,M,Mens Sportswear,424.066,NO,Mobile,42406.6,T,F,F,T,F,T,T,F,F,F,F
+63420,M,Mens Career,227.588,NO,Direct Mail,22758.8,T,F,T,F,F,T,F,F,F,T,F
+63452,M,Mens Sportswear,178.916,NO,Email,17891.6,F,F,F,T,T,T,T,F,F,F,F
+63694,F,Mens Sportswear,223.043,YES,Mobile,22304.3,T,F,T,T,F,F,F,F,F,F,F
+63779,F,Mens Sportswear,459.019,NO,Direct Mail,45901.9,F,F,F,F,F,F,F,F,T,F,F
+63817,M,Mens Casual,291.748,YES,Direct Mail,29174.8,F,F,F,F,F,F,F,F,F,F,F
+63829,F,Womens Career,298.575,NO,Mobile,29857.5,F,F,F,F,F,F,T,F,F,F,T
+63880,F,Womens Shoes,167.477,NO,Email,16747.7,T,F,F,F,T,F,F,F,F,T,F
+63979,M,Womens Career,391,YES,Mobile,39100,F,F,F,F,T,F,T,F,T,F,F
+63996,F,Womens Sportwear,137.353,NO,Direct Mail,13735.3,F,F,F,T,F,F,F,F,F,T,F
+64053,F,Womens Shoes,311.795,NO,Direct Mail,31179.5,F,F,F,F,F,F,F,T,F,F,F
+64215,M,Mens Casual,170.993,NO,Email,17099.3,T,F,F,T,T,T,T,F,F,F,F
+64239,M,Womens Shoes,275.083,YES,Mobile,27508.3,F,F,F,T,F,T,T,T,T,F,F
+64281,M,Womens Career,177.18,NO,Mobile,17718,T,F,T,T,F,T,T,T,F,T,F
+64561,F,Womens Career,236.794,YES,Email,23679.4,F,F,F,F,T,F,F,F,T,F,F
+64596,M,Womens Shoes,421.336,YES,Email,42133.6,F,T,T,F,F,F,T,F,F,T,F
+64668,M,Womens Career,312.009,NO,Email,31200.9,F,F,T,T,T,T,T,F,T,F,F
+64752,F,Mens Casual,188.473,NO,Email,18847.3,F,F,T,T,F,F,T,F,F,F,F
+64861,M,Mens Sportswear,187.711,YES,Email,18771.1,F,F,T,F,F,T,T,F,F,F,T
+64892,F,Home goods,389.995,YES,Email,38999.5,F,F,F,F,F,T,F,T,F,F,F
+65006,F,Mens Sportswear,105.46,NO,Email,10546,T,F,F,F,F,F,F,F,T,T,F
+65088,M,Womens Shoes,119.406,NO,Direct Mail,11940.6,T,T,F,F,F,F,F,F,F,T,T
+65225,F,Womens Shoes,438.56,YES,Direct Mail,43856,F,F,T,F,F,F,F,F,F,F,F
+65418,F,Womens Career,386.017,YES,Email,38601.7,F,F,F,F,F,F,F,T,F,F,T
+65425,F,Home goods,230.249,YES,Mobile,23024.9,F,F,T,F,F,F,T,F,F,F,F
+65493,M,Womens Career,267.732,YES,Email,26773.2,F,F,F,T,F,F,F,F,F,T,F
+65853,M,Womens Shoes,206.815,YES,Email,20681.5,T,F,T,F,F,F,F,F,F,F,F
+66117,F,Mens Casual,254.945,NO,Direct Mail,25494.5,F,F,F,F,T,F,F,F,F,T,F
+66191,F,Mens Casual,375.233,NO,Email,37523.3,T,F,T,F,F,T,T,F,F,F,F
+66267,F,Womens Shoes,156.86,NO,Email,15686,T,T,T,F,F,F,T,T,F,T,T
+66551,M,Womens Career,438.679,NO,Email,43867.9,F,F,T,F,F,F,F,F,F,T,F
+66618,F,Home goods,305.01,NO,Email,30501,T,T,F,T,T,F,F,F,F,F,F
+66651,F,Mens Sportswear,256.292,YES,Direct Mail,25629.2,F,F,F,F,F,F,F,F,F,F,F
+66711,F,Womens Career,414.07,NO,Email,41407,F,F,T,F,F,F,F,F,F,F,F
+66886,M,Womens Career,106.842,YES,Email,10684.2,T,F,T,F,T,F,F,F,F,F,F
+66940,F,Womens Shoes,439.612,NO,Mobile,43961.2,F,F,F,F,F,F,F,T,T,T,T
+66988,M,Womens Career,179.591,YES,Mobile,17959.1,F,F,F,T,F,T,T,F,F,T,F
+67063,F,Mens Sportswear,400.147,YES,Mobile,40014.7,F,T,F,F,F,F,F,T,T,T,T
+67133,M,Womens Sportwear,366.913,NO,Direct Mail,36691.3,F,F,F,T,F,T,F,T,F,F,T
+67211,F,Home goods,168.537,NO,Mobile,16853.7,F,F,F,F,F,F,F,F,F,F,F
+67362,F,Womens Career,253.567,NO,Email,25356.7,F,T,T,F,F,F,F,F,F,F,T
+67455,F,Mens Sportswear,181.98,YES,Mobile,18198,F,T,F,F,F,F,T,F,F,F,F
+67697,M,Womens Shoes,129.477,NO,Mobile,12947.7,F,F,T,F,F,T,F,F,F,F,F
+67799,F,Womens Sportwear,169.724,NO,Mobile,16972.4,T,F,F,F,F,T,F,F,F,T,T
+67809,F,Mens Sportswear,103.765,NO,Direct Mail,10376.5,F,F,F,F,F,T,F,F,T,F,F
+68006,M,Womens Shoes,114.931,YES,Mobile,11493.1,F,T,F,F,F,F,F,F,F,F,F
+68058,F,Mens Casual,498.863,NO,Email,49886.3,T,F,T,F,F,F,F,T,F,T,T
+68104,F,Mens Sportswear,123.29,NO,Direct Mail,12329,F,F,F,T,F,T,T,F,F,T,F
+68119,F,Womens Shoes,151.803,YES,Direct Mail,15180.3,F,F,F,F,T,F,F,F,T,F,T
+68156,F,Home goods,181.151,NO,Direct Mail,18115.1,F,F,F,F,F,F,T,F,T,F,F
+68193,F,Womens Sportwear,157.157,YES,Mobile,15715.7,T,F,F,T,F,F,F,F,F,T,F
+68438,F,Womens Shoes,234.241,YES,Email,23424.1,T,F,F,F,F,F,F,F,F,F,T
+68489,F,Womens Sportwear,225.684,YES,Direct Mail,22568.4,F,F,F,F,F,T,F,F,F,T,F
+68501,F,Womens Shoes,153.726,NO,Direct Mail,15372.6,T,T,F,F,F,F,F,F,T,T,F
+69110,M,Womens Sportwear,118.488,NO,Email,11848.8,T,F,F,T,T,T,T,T,F,T,T
+69122,M,Home goods,320.161,YES,Mobile,32016.1,F,F,T,F,T,F,F,F,F,F,F
+69372,F,Womens Shoes,115.395,YES,Mobile,11539.5,F,T,F,F,F,F,F,F,F,F,T
+69380,F,Mens Sportswear,340.379,NO,Direct Mail,34037.9,F,F,F,F,F,F,F,T,F,F,T
+69401,F,Mens Casual,367.54,NO,Email,36754,T,F,F,F,T,F,F,T,F,F,T
+69718,F,Mens Casual,433.975,YES,Mobile,43397.5,F,F,F,F,F,F,F,T,T,F,T
+69720,F,Mens Sportswear,137.837,NO,Mobile,13783.7,F,T,F,F,F,F,F,F,F,F,F
+69754,M,Mens Sportswear,440.797,YES,Email,44079.7,F,F,T,F,F,F,F,F,T,F,F
+69774,M,Womens Sportwear,254.476,YES,Email,25447.6,F,F,F,T,F,T,T,T,T,F,F
+69802,F,Womens Shoes,435.423,YES,Email,43542.3,F,F,F,T,F,F,T,F,F,F,F
+69884,M,Mens Casual,189.1,YES,Email,18910,F,F,F,F,F,F,F,F,T,F,T
+69934,F,Mens Career,311.787,YES,Direct Mail,31178.7,F,T,T,F,F,F,F,F,F,T,F
+69965,M,Womens Sportwear,387.874,NO,Mobile,38787.4,T,F,T,F,F,F,T,F,F,T,F
+70014,M,Mens Casual,174.934,NO,Mobile,17493.4,F,F,F,T,F,F,F,T,F,F,F
+70018,F,Womens Sportwear,427.998,YES,Direct Mail,42799.8,T,F,T,F,F,T,T,T,F,T,T
+70063,M,Womens Sportwear,283.932,NO,Direct Mail,28393.2,F,F,F,F,F,F,F,T,F,F,F
+70182,F,Home goods,113.005,YES,Mobile,11300.5,F,F,F,T,F,T,F,F,F,F,F
+70206,M,Womens Shoes,153.22,YES,Direct Mail,15322,T,F,F,T,F,F,F,F,F,F,F
+70336,F,Womens Shoes,453.326,YES,Email,45332.6,T,F,T,F,F,F,F,F,F,F,F
+70359,F,Mens Career,351.138,YES,Direct Mail,35113.8,T,F,F,F,F,F,F,F,F,T,F
+70428,F,Womens Career,236.085,NO,Mobile,23608.5,F,F,T,T,F,F,T,T,T,F,F
+70481,M,Womens Sportwear,317.001,YES,Direct Mail,31700.1,F,F,F,T,F,F,T,F,T,T,F
+70664,M,Mens Casual,368.276,NO,Email,36827.6,F,F,F,F,F,F,F,F,F,F,F
+70858,M,Womens Career,209.462,YES,Email,20946.2,T,T,F,T,F,F,F,F,F,T,T
+70998,M,Womens Shoes,365.09,YES,Mobile,36509,F,T,T,F,T,T,F,F,F,T,F
+71078,M,Womens Shoes,108.529,YES,Mobile,10852.9,F,F,F,F,F,F,F,F,F,F,F
+71140,M,Mens Sportswear,220.941,YES,Mobile,22094.1,F,F,F,F,F,F,T,F,F,F,F
+71254,F,Home goods,171.837,YES,Direct Mail,17183.7,F,T,F,F,F,T,F,F,F,F,F
+71276,F,Mens Sportswear,363.388,NO,Mobile,36338.8,F,F,F,T,F,T,T,F,F,F,F
+71343,M,Mens Career,482.751,YES,Email,48275.1,F,F,F,T,F,T,T,F,F,F,F
+71462,F,Womens Shoes,409.979,YES,Mobile,40997.9,F,T,F,F,F,F,F,T,F,F,T
+71600,M,Womens Career,473.234,NO,Direct Mail,47323.4,T,F,F,T,T,T,T,T,F,T,F
+71604,M,Womens Career,181.721,YES,Mobile,18172.1,F,F,T,F,F,F,T,F,F,T,F
+71607,F,Mens Career,234.978,NO,Email,23497.8,T,F,T,F,F,F,F,F,F,T,T
+71652,M,Mens Career,340.689,YES,Mobile,34068.9,F,F,T,T,F,T,T,F,F,F,F
+71690,F,Womens Shoes,136.361,NO,Email,13636.1,T,F,F,F,F,F,T,F,T,T,F
+71832,F,Mens Career,358.777,NO,Mobile,35877.7,F,F,F,F,T,F,F,F,F,T,F
+71887,M,Womens Shoes,300.67,NO,Email,30067,F,T,F,T,F,T,T,T,F,T,T
+72200,F,Home goods,124.526,NO,Email,12452.6,T,F,T,F,F,F,F,F,F,T,F
+72248,M,Womens Career,108.367,YES,Email,10836.7,F,F,F,F,F,F,F,F,F,F,F
+72298,M,Womens Shoes,410.628,YES,Email,41062.8,F,F,F,F,F,F,T,F,F,F,F
+72299,F,Mens Sportswear,240.273,YES,Direct Mail,24027.3,T,F,F,F,F,F,T,F,T,T,F
+72454,F,Womens Career,441.263,YES,Email,44126.3,F,F,F,F,F,F,T,T,F,F,T
+72849,M,Womens Sportwear,207.743,NO,Mobile,20774.3,T,F,F,F,T,F,T,F,F,F,F
+72900,M,Womens Shoes,144.639,NO,Mobile,14463.9,T,F,T,F,F,F,F,F,F,T,F
+72901,F,Womens Shoes,239.797,NO,Direct Mail,23979.7,F,F,F,F,F,F,T,F,F,F,F
+72902,F,Womens Shoes,465.449,YES,Email,46544.9,F,F,T,F,F,F,F,T,T,F,T
+72979,M,Womens Sportwear,213.607,YES,Direct Mail,21360.7,F,F,F,F,F,T,F,F,T,F,T
+72986,F,Womens Career,259.767,YES,Mobile,25976.7,F,F,F,F,F,F,T,F,F,F,F
+73004,M,Mens Sportswear,130.578,YES,Direct Mail,13057.8,F,F,F,T,F,F,F,F,F,T,F
+73259,F,Womens Shoes,168.793,NO,Mobile,16879.3,T,F,F,F,T,F,F,F,F,F,F
+73383,M,Home goods,139.755,NO,Mobile,13975.5,F,F,F,F,T,F,F,F,F,F,F
+73441,F,Womens Shoes,213.574,NO,Mobile,21357.4,T,F,F,F,T,F,F,F,F,T,F
+73480,M,Home goods,139.759,NO,Direct Mail,13975.9,F,F,F,T,F,T,T,F,F,F,T
+73594,F,Womens Shoes,130.883,NO,Direct Mail,13088.3,F,F,T,F,F,F,F,F,F,F,F
+73630,F,Womens Shoes,104.506,NO,Mobile,10450.6,F,F,F,T,T,F,F,T,F,F,F
+73651,M,Mens Career,141.309,YES,Email,14130.9,T,T,F,F,F,F,F,F,F,F,F
+73708,F,Mens Casual,433.068,NO,Direct Mail,43306.8,T,F,F,T,F,F,F,T,T,T,T
+74314,F,Mens Career,387.031,NO,Mobile,38703.1,T,F,F,F,T,T,F,F,F,F,F
+74423,F,Mens Career,223.177,YES,Email,22317.7,F,F,F,F,F,F,T,F,F,F,F
+74463,F,Mens Sportswear,167.073,YES,Mobile,16707.3,F,F,F,T,F,T,F,F,T,F,F
+74710,F,Womens Sportwear,163.704,YES,Mobile,16370.4,F,F,F,F,F,F,F,F,F,F,F
+74876,M,Mens Career,182.937,YES,Email,18293.7,F,F,T,F,F,F,T,F,F,F,T
+75118,F,Mens Career,317.774,YES,Direct Mail,31777.4,F,F,F,F,T,F,F,F,F,F,F
+75130,F,Womens Sportwear,391.493,YES,Direct Mail,39149.3,T,F,F,F,F,F,T,F,F,F,F
+75274,M,Home goods,322.881,NO,Mobile,32288.1,T,F,F,T,F,F,F,F,T,T,F
+75663,F,Mens Career,208.372,YES,Mobile,20837.2,F,T,F,F,T,F,F,F,F,F,F
+75792,M,Womens Sportwear,312.017,NO,Email,31201.7,F,F,F,F,F,F,F,T,F,F,F
+75815,F,Home goods,191.927,YES,Mobile,19192.7,F,F,F,F,F,T,F,T,F,F,T
+75971,M,Mens Career,160.295,YES,Mobile,16029.5,T,F,T,F,F,F,F,F,F,F,F
+76095,M,Home goods,280.024,YES,Direct Mail,28002.4,F,F,F,T,F,T,T,F,F,F,F
+76145,F,Home goods,275.548,NO,Mobile,27554.8,F,T,F,F,T,F,F,F,F,F,F
+76264,M,Womens Sportwear,159.9,NO,Direct Mail,15990,T,T,F,F,F,F,F,F,F,T,F
+76567,M,Womens Sportwear,422.48,YES,Mobile,42248,T,T,T,T,F,F,F,F,F,T,F
+76777,F,Mens Sportswear,437.48,NO,Mobile,43748,F,F,F,F,F,F,F,T,F,F,T
+76944,F,Mens Sportswear,476.155,YES,Email,47615.5,F,F,F,F,F,F,T,T,F,F,T
+77218,M,Womens Career,382.717,NO,Mobile,38271.7,T,F,F,T,F,T,T,T,F,T,F
+77232,M,Mens Casual,287.941,NO,Direct Mail,28794.1,T,F,T,F,F,F,F,F,F,T,F
+77335,F,Mens Career,478.128,NO,Email,47812.8,F,F,F,F,F,F,F,T,T,F,T
+77419,M,Mens Sportswear,297.398,YES,Mobile,29739.8,F,F,F,T,F,T,T,F,F,F,T
+78030,F,Mens Career,346.469,NO,Mobile,34646.9,F,F,F,F,T,F,F,T,F,F,T
+78113,F,Mens Sportswear,143.918,YES,Email,14391.8,T,F,F,T,F,F,F,T,F,F,F
+78139,M,Mens Sportswear,485.578,NO,Email,48557.8,T,F,F,T,T,F,F,F,F,F,F
+78302,M,Womens Shoes,326.841,YES,Mobile,32684.1,T,F,F,T,F,F,F,F,F,F,F
+78357,F,Mens Career,288.482,NO,Mobile,28848.2,F,F,T,F,F,T,F,F,F,F,F
+78363,M,Womens Shoes,494.132,YES,Mobile,49413.2,T,F,F,T,F,T,T,T,F,F,F
+78428,F,Womens Shoes,123.794,YES,Mobile,12379.4,F,F,F,F,F,T,F,F,T,F,F
+78598,M,Womens Shoes,486.573,NO,Email,48657.3,F,F,F,F,F,F,F,T,F,F,T
+78626,M,Womens Career,330.971,NO,Email,33097.1,F,T,F,F,F,T,F,F,F,F,F
+78639,M,Mens Career,320.691,NO,Email,32069.1,F,F,F,F,F,F,F,F,F,T,F
+78967,M,Mens Casual,361.66,YES,Direct Mail,36166,F,F,F,T,F,T,T,F,F,F,F
+79001,F,Womens Career,385.516,YES,Mobile,38551.6,F,F,F,F,F,F,F,T,F,T,T
+79039,M,Womens Shoes,124.456,NO,Mobile,12445.6,F,F,T,F,F,F,F,F,F,F,F
+79303,M,Womens Sportwear,396.497,NO,Email,39649.7,T,F,T,F,F,F,F,F,F,T,F
+79305,F,Mens Casual,186.381,NO,Direct Mail,18638.1,F,F,F,F,T,F,F,T,F,F,F
+79384,F,Mens Sportswear,224.563,NO,Mobile,22456.3,F,F,F,F,F,F,F,F,F,T,F
+79446,M,Womens Sportwear,182.451,YES,Email,18245.1,F,F,F,F,F,F,F,F,F,F,F
+79535,F,Womens Shoes,370.48,NO,Mobile,37048,F,F,F,F,T,F,F,F,F,F,F
+79577,F,Home goods,412.514,YES,Mobile,41251.4,F,T,F,F,F,F,F,T,F,F,F
+79632,M,Womens Shoes,125.362,NO,Mobile,12536.2,F,F,F,T,F,T,T,F,F,F,F
+79875,F,Womens Shoes,100.844,NO,Direct Mail,10084.4,F,T,F,F,F,F,F,F,F,F,F
+79890,F,Home goods,374.335,NO,Direct Mail,37433.5,F,F,T,F,F,F,F,F,F,T,F
+80137,F,Womens Shoes,128.47,NO,Email,12847,F,F,F,F,F,F,F,F,F,F,F
+80198,F,Mens Casual,342.67,NO,Mobile,34267,F,F,F,F,F,F,T,T,F,F,T
+80297,F,Womens Shoes,372.746,NO,Direct Mail,37274.6,T,F,F,F,F,F,F,F,F,T,F
+80306,F,Womens Shoes,319.965,NO,Email,31996.5,F,F,T,F,T,T,T,T,F,F,F
+80438,M,Womens Sportwear,158.347,NO,Mobile,15834.7,F,F,F,F,F,F,F,T,F,F,T
+80578,F,Womens Sportwear,306.867,YES,Mobile,30686.7,F,F,F,F,F,F,T,F,F,F,T
+80617,F,Mens Sportswear,102.011,YES,Direct Mail,10201.1,F,T,T,F,F,F,F,F,T,T,F
+80728,F,Mens Casual,212.648,YES,Email,21264.8,F,T,F,T,T,T,F,F,F,F,T
+80869,F,Home goods,100.454,YES,Mobile,10045.4,F,F,F,F,T,F,F,T,F,F,F
+80954,M,Womens Shoes,139.726,NO,Email,13972.6,F,F,T,T,F,T,T,F,F,F,F
+81034,M,Womens Career,209.511,YES,Direct Mail,20951.1,F,T,F,T,T,T,T,F,F,F,F
+81487,M,Womens Shoes,200.766,NO,Direct Mail,20076.6,F,F,T,F,F,T,T,F,F,F,F
+81616,F,Mens Sportswear,438.689,YES,Mobile,43868.9,T,F,F,T,T,F,F,F,F,F,T
+81690,F,Womens Shoes,373.617,NO,Mobile,37361.7,F,F,F,F,F,F,F,T,F,F,T
+81745,F,Womens Sportwear,159.576,YES,Mobile,15957.6,F,F,T,F,F,F,F,F,T,F,F
+81825,F,Womens Shoes,250.713,NO,Mobile,25071.3,T,F,T,F,F,F,F,F,F,T,F
+81836,M,Home goods,329.521,NO,Direct Mail,32952.1,F,F,F,F,F,T,F,F,T,T,F
+81851,F,Womens Career,139.837,NO,Mobile,13983.7,T,F,T,F,F,F,F,F,F,T,T
+81971,M,Mens Sportswear,193.672,NO,Email,19367.2,T,F,T,T,F,F,F,F,F,T,F
+82096,M,Womens Shoes,445.391,NO,Email,44539.1,T,F,F,T,F,T,T,F,F,T,T
+82173,F,Womens Career,157.511,NO,Email,15751.1,T,F,F,F,T,F,T,F,F,T,F
+82419,F,Womens Shoes,197.255,YES,Direct Mail,19725.5,F,T,F,T,F,F,T,F,F,F,F
+82558,F,Womens Shoes,101.074,YES,Mobile,10107.4,F,T,F,F,F,F,T,T,T,F,F
+82753,F,Womens Career,375.762,YES,Direct Mail,37576.2,T,T,T,F,F,F,F,T,F,F,T
+82796,F,Home goods,185.934,YES,Mobile,18593.4,F,F,F,F,T,F,F,F,F,F,F
+82801,M,Home goods,425.439,NO,Mobile,42543.9,F,F,F,T,F,T,F,T,F,F,F
+82901,F,Mens Sportswear,398.343,NO,Email,39834.3,F,F,F,F,F,F,F,T,F,F,T
+83003,F,Womens Shoes,492.498,YES,Direct Mail,49249.8,F,F,F,F,F,F,F,F,T,F,F
+83071,M,Womens Sportwear,298.536,YES,Email,29853.6,F,F,F,F,F,F,T,F,F,F,T
+83102,M,Mens Casual,480.077,YES,Email,48007.7,F,F,F,T,F,T,T,F,F,T,F
+83127,M,Home goods,412.905,NO,Direct Mail,41290.5,T,F,F,F,F,F,F,F,F,T,F
+83338,M,Mens Career,262.061,NO,Email,26206.1,F,F,F,F,T,F,F,F,F,F,F
+83340,F,Womens Career,271.358,YES,Email,27135.8,F,F,F,F,F,F,T,T,T,F,F
+83439,F,Womens Shoes,334.975,YES,Mobile,33497.5,F,F,F,F,T,F,F,T,F,T,T
+83500,M,Home goods,492.505,YES,Mobile,49250.5,F,F,F,T,T,F,F,F,F,T,T
+83523,M,Womens Sportwear,458.037,NO,Email,45803.7,F,F,F,F,F,F,F,F,F,F,F
+83536,F,Mens Career,319.368,NO,Email,31936.8,F,F,F,F,F,F,T,F,T,T,F
+83650,F,Mens Career,335.584,YES,Email,33558.4,F,F,F,F,F,F,F,F,F,T,F
+83883,F,Womens Shoes,230.34,YES,Mobile,23034,F,F,F,F,F,F,F,T,F,F,T
+84033,F,Womens Sportwear,434.2,YES,Email,43420,F,T,F,T,F,F,F,T,F,F,F
+84042,M,Womens Sportwear,181.849,NO,Email,18184.9,F,T,F,T,T,T,T,F,F,F,F
+84092,F,Mens Casual,348.497,NO,Mobile,34849.7,T,F,T,F,F,T,F,T,T,T,T
+84148,F,Mens Career,491.791,NO,Direct Mail,49179.1,T,F,F,F,F,F,T,T,F,T,T
+84180,M,Womens Shoes,104.233,YES,Direct Mail,10423.3,F,F,F,T,F,T,T,F,F,F,F
+84497,F,Womens Sportwear,382.919,YES,Mobile,38291.9,F,F,F,F,T,F,F,T,F,F,T
+84605,F,Womens Sportwear,178.494,YES,Direct Mail,17849.4,T,F,F,F,F,F,F,F,F,F,F
+84756,M,Mens Sportswear,291.981,YES,Mobile,29198.1,F,F,F,F,F,F,F,F,F,T,T
+84799,M,Womens Sportwear,313.192,YES,Mobile,31319.2,F,T,F,F,T,F,F,F,F,F,F
+84902,M,Womens Sportwear,449.991,YES,Mobile,44999.1,F,F,F,F,F,T,F,F,F,F,F
+84903,F,Mens Career,328.053,NO,Mobile,32805.3,T,F,F,F,F,T,F,F,T,T,F
+84937,F,Womens Shoes,248.076,NO,Direct Mail,24807.6,T,F,F,F,F,F,T,F,F,F,F
+85081,F,Mens Sportswear,382.586,YES,Mobile,38258.6,T,F,F,F,F,F,T,T,F,F,T
+85182,M,Womens Shoes,119.2,NO,Mobile,11920,T,T,F,F,F,F,F,F,T,T,F
+85259,F,Home goods,409.303,YES,Mobile,40930.3,T,F,F,F,F,T,T,F,F,F,F
+85348,F,Womens Shoes,402.677,YES,Direct Mail,40267.7,F,F,F,F,T,F,F,F,F,F,F
+85472,F,Mens Sportswear,145.031,YES,Mobile,14503.1,F,F,T,F,F,F,F,F,F,T,T
+85475,M,Womens Career,370.037,YES,Mobile,37003.7,T,F,F,F,F,F,F,T,F,F,F
+85585,F,Womens Career,364.26,YES,Mobile,36426,F,F,F,F,F,F,F,T,T,F,T
+85699,F,Womens Career,181.688,YES,Email,18168.8,F,T,T,F,F,F,F,F,F,T,F
+85771,F,Home goods,100.455,NO,Mobile,10045.5,F,F,F,F,T,F,F,T,F,F,T
+85860,F,Home goods,304.116,YES,Email,30411.6,F,T,T,F,T,F,F,F,F,F,T
+86044,M,Mens Career,305.434,NO,Mobile,30543.4,F,F,F,T,F,T,T,T,T,F,F
+86217,M,Womens Sportwear,195.378,YES,Mobile,19537.8,F,F,F,T,F,T,T,F,F,F,F
+86331,M,Mens Career,454.521,NO,Mobile,45452.1,F,F,F,T,F,T,T,F,F,T,T
+86350,F,Mens Casual,121.84,NO,Mobile,12184,F,F,F,F,F,T,F,F,T,F,F
+86612,M,Womens Career,297.839,YES,Mobile,29783.9,F,T,F,F,F,F,F,F,F,F,F
+86681,F,Mens Casual,150.004,NO,Direct Mail,15000.4,F,F,F,F,F,F,F,F,F,F,F
+86759,F,Mens Sportswear,484.566,NO,Mobile,48456.6,F,F,F,T,F,F,F,F,F,F,F
+86983,F,Womens Sportwear,433.446,NO,Mobile,43344.6,T,T,F,F,T,F,F,T,F,T,T
+87066,M,Womens Shoes,108.645,YES,Mobile,10864.5,F,F,T,F,F,F,F,F,F,T,F
+87101,M,Mens Sportswear,230.974,NO,Direct Mail,23097.4,T,F,F,F,T,T,F,F,F,T,T
+87151,F,Mens Career,441.181,NO,Direct Mail,44118.1,F,F,T,F,T,T,F,T,F,T,T
+87250,F,Womens Shoes,390.228,YES,Mobile,39022.8,F,T,F,F,F,F,F,F,F,F,F
+87270,M,Womens Sportwear,314.868,NO,Direct Mail,31486.8,F,F,T,T,T,F,F,T,F,F,F
+87450,F,Home goods,482.053,YES,Mobile,48205.3,F,F,F,F,F,T,F,F,F,T,F
+87482,F,Womens Career,401.01,YES,Mobile,40101,T,F,F,F,T,T,F,T,F,F,F
+87703,M,Womens Shoes,277.087,NO,Email,27708.7,T,F,F,F,T,F,F,F,F,T,T
+87793,F,Womens Shoes,468.845,NO,Email,46884.5,F,F,F,F,F,T,F,T,F,T,T
+87953,M,Mens Sportswear,162.099,YES,Mobile,16209.9,F,F,F,F,T,T,F,F,F,T,F
+87975,F,Mens Sportswear,278.2,NO,Mobile,27820,F,F,T,F,F,F,F,F,F,T,F
+88019,M,Womens Career,473.606,YES,Direct Mail,47360.6,T,F,F,F,F,F,F,F,F,F,F
+88176,F,Womens Sportwear,345.366,YES,Mobile,34536.6,F,F,T,F,F,T,F,T,T,F,T
+88260,F,Womens Shoes,297.785,NO,Mobile,29778.5,F,F,T,T,F,F,F,F,F,F,F
+88359,F,Womens Shoes,230.214,YES,Mobile,23021.4,T,T,F,F,F,F,F,F,F,F,T
+88549,M,Home goods,375.927,NO,Mobile,37592.7,T,F,F,F,F,T,F,F,T,T,F
+88596,F,Womens Career,341.082,NO,Email,34108.2,F,F,T,F,F,F,F,T,T,F,T
+88812,F,Mens Career,288.761,NO,Mobile,28876.1,F,F,F,F,F,F,T,F,F,F,F
+88886,M,Womens Sportwear,189.32,YES,Mobile,18932,F,F,F,T,F,F,F,F,F,F,F
+88972,M,Mens Career,318.546,NO,Email,31854.6,T,F,F,F,F,F,F,T,F,T,F
+89041,M,Womens Shoes,250.85,NO,Direct Mail,25085,F,F,F,T,F,T,T,F,F,F,F
+89106,F,Mens Casual,466.62,YES,Direct Mail,46662,F,T,F,F,T,F,F,T,F,F,T
+89209,M,Womens Shoes,241.621,YES,Direct Mail,24162.1,F,F,F,F,F,F,F,T,F,F,F
+89233,F,Womens Shoes,376.838,YES,Mobile,37683.8,F,T,F,F,F,F,F,F,F,F,F
+89250,F,Womens Shoes,436.042,NO,Email,43604.2,F,T,F,F,T,F,F,T,F,F,T
+89302,F,Womens Career,204.889,YES,Mobile,20488.9,F,F,F,F,F,F,F,F,F,T,F
+89406,F,Womens Shoes,132.185,YES,Email,13218.5,T,F,F,F,F,F,T,F,F,F,F
+89425,M,Mens Sportswear,288.615,NO,Direct Mail,28861.5,T,F,F,T,F,F,T,F,F,T,F
+89460,M,Womens Shoes,334.191,YES,Email,33419.1,T,F,F,T,F,T,T,F,F,F,T
+89484,M,Womens Career,406.552,NO,Mobile,40655.2,F,F,F,T,F,F,T,F,F,F,F
+89485,M,Womens Sportwear,183.222,YES,Email,18322.2,F,F,F,F,T,T,F,F,F,F,F
+89559,F,Home goods,243.813,NO,Direct Mail,24381.3,T,T,F,F,T,F,F,F,F,T,F
+89649,F,Mens Career,269.621,NO,Direct Mail,26962.1,T,F,F,F,F,F,F,F,F,T,T
+89872,F,Womens Shoes,156.822,YES,Mobile,15682.2,F,F,F,F,F,F,T,F,F,F,F
+89958,F,Mens Career,344.239,YES,Email,34423.9,F,F,T,F,T,T,F,F,F,T,T
+90147,M,Mens Sportswear,188.338,YES,Email,18833.8,F,F,T,F,F,F,F,F,F,F,F
+90165,F,Womens Career,108.55,YES,Direct Mail,10855,F,F,F,T,F,F,F,F,F,F,F
+90264,M,Mens Casual,104.971,NO,Mobile,10497.1,T,F,F,F,F,F,F,F,F,T,F
+90360,F,Home goods,151.372,NO,Email,15137.2,F,F,F,F,T,T,T,F,F,F,F
+90462,M,Mens Casual,100.726,NO,Email,10072.6,F,T,F,T,F,T,T,T,F,F,F
+90562,M,Mens Casual,290.087,YES,Email,29008.7,F,F,F,T,T,F,F,F,F,T,F
+90730,M,Home goods,295.005,NO,Email,29500.5,F,F,F,T,F,T,T,F,T,F,F
+90861,F,Mens Casual,382.559,YES,Email,38255.9,T,T,F,F,F,F,F,F,F,F,T
+90911,F,Womens Sportwear,305.207,NO,Email,30520.7,T,T,F,F,F,T,F,F,F,F,F
+90933,M,Womens Shoes,262.117,YES,Mobile,26211.7,F,F,F,F,F,F,F,F,F,F,F
+91019,M,Home goods,484.029,YES,Mobile,48402.9,F,F,F,T,F,F,F,F,F,T,F
+91055,F,Womens Career,247.818,YES,Mobile,24781.8,F,F,T,F,F,F,F,F,T,F,F
+91074,F,Mens Casual,465.642,NO,Mobile,46564.2,F,F,F,T,F,T,F,F,F,F,F
+91117,M,Mens Casual,336.103,NO,Mobile,33610.3,T,F,F,F,F,F,F,F,F,T,F
+91545,M,Womens Shoes,123.519,YES,Mobile,12351.9,F,F,T,F,F,F,F,F,F,F,F
+91609,M,Womens Shoes,188.133,YES,Mobile,18813.3,F,T,T,F,F,F,F,F,F,F,F
+91913,M,Womens Career,428.928,NO,Email,42892.8,F,F,F,F,F,F,T,F,T,F,F
+91928,F,Mens Casual,123.639,NO,Mobile,12363.9,T,F,F,F,T,F,F,T,T,T,T
+91972,F,Mens Casual,491.579,NO,Mobile,49157.9,T,F,F,F,F,T,F,T,F,T,T
+91986,F,Mens Casual,351.619,YES,Email,35161.9,F,T,F,T,F,F,F,F,F,F,F
+92125,F,Home goods,157.945,NO,Mobile,15794.5,F,F,F,T,F,F,F,F,F,F,F
+92209,F,Womens Sportwear,309.04,YES,Direct Mail,30904,F,T,T,F,T,F,F,F,F,F,F
+92227,F,Womens Career,425.332,NO,Email,42533.2,T,F,F,T,F,F,F,T,F,F,T
+92675,F,Womens Career,445.153,NO,Direct Mail,44515.3,F,T,F,F,F,F,F,F,F,F,F
+92868,M,Mens Casual,483.546,NO,Direct Mail,48354.6,F,F,F,T,F,T,F,T,F,F,F
+92883,F,Mens Sportswear,188.207,NO,Mobile,18820.7,T,F,F,F,F,F,F,F,F,F,F
+93037,F,Mens Sportswear,191.763,NO,Email,19176.3,F,F,F,T,F,F,F,T,F,T,F
+93162,M,Mens Career,468.411,NO,Mobile,46841.1,F,F,F,F,F,F,F,F,T,T,T
+93304,M,Womens Sportwear,424.567,NO,Mobile,42456.7,F,F,F,F,F,T,F,F,F,F,T
+93353,F,Womens Shoes,368.045,NO,Mobile,36804.5,F,F,T,T,T,F,F,T,F,F,T
+93393,M,Mens Sportswear,354.566,NO,Email,35456.6,T,T,F,F,F,F,T,F,F,F,F
+93401,F,Womens Shoes,457.963,YES,Mobile,45796.3,F,F,F,T,F,F,F,F,F,T,T
+93467,F,Womens Career,116.818,NO,Mobile,11681.8,F,F,F,F,F,F,F,F,F,F,F
+93469,M,Womens Shoes,327.656,NO,Direct Mail,32765.6,T,F,T,T,T,T,F,F,T,T,F
+93527,M,Mens Sportswear,333.61,YES,Email,33361,F,F,F,F,F,F,T,T,F,F,F
+93669,F,Womens Sportwear,277.032,NO,Direct Mail,27703.2,F,F,F,T,F,F,F,T,F,F,T
+93891,F,Womens Shoes,365.954,NO,Mobile,36595.4,T,F,F,F,F,F,F,F,F,T,F
+93920,M,Mens Casual,225.392,YES,Mobile,22539.2,F,T,F,T,F,T,T,T,F,F,F
+93963,M,Mens Sportswear,491.922,YES,Mobile,49192.2,F,T,F,F,F,F,F,F,F,F,F
+93974,M,Womens Career,465.105,NO,Email,46510.5,F,T,F,T,F,F,F,F,T,F,F
+94004,M,Womens Shoes,438.679,NO,Mobile,43867.9,F,F,F,F,T,T,T,F,F,F,F
+94015,F,Womens Sportwear,481.999,NO,Direct Mail,48199.9,T,F,F,F,F,F,F,T,F,T,T
+94105,M,Womens Shoes,103.719,YES,Mobile,10371.9,F,T,F,F,F,F,F,F,T,F,F
+94108,M,Womens Sportwear,213.634,NO,Email,21363.4,F,F,T,F,F,F,F,T,T,F,F
+94231,M,Mens Career,272.609,YES,Email,27260.9,F,F,F,F,T,T,F,F,F,F,T
+94341,M,Mens Sportswear,224.622,NO,Mobile,22462.2,F,F,F,T,F,T,T,T,F,F,F
+94467,M,Home goods,189.589,YES,Email,18958.9,F,F,F,T,F,T,T,F,T,T,F
+94531,M,Womens Shoes,327.653,YES,Email,32765.3,F,T,F,F,T,T,F,F,F,F,F
+94685,M,Womens Sportwear,317.561,YES,Mobile,31756.1,F,T,T,F,F,F,F,F,F,F,F
+94754,F,Home goods,450.857,NO,Email,45085.7,F,F,F,T,T,F,F,T,T,T,T
+94790,M,Womens Career,397.012,NO,Mobile,39701.2,F,F,F,F,T,F,F,F,F,T,F
+94864,F,Home goods,434.745,NO,Direct Mail,43474.5,F,F,F,F,F,F,F,T,F,F,F
+95026,F,Womens Sportwear,134.226,YES,Email,13422.6,F,F,T,F,F,F,F,F,F,T,T
+95141,F,Mens Sportswear,453.427,YES,Mobile,45342.7,T,F,F,F,F,F,F,T,F,F,T
+95354,M,Mens Sportswear,353.973,NO,Direct Mail,35397.3,F,T,F,T,T,T,T,F,T,T,F
+95443,M,Mens Casual,479.239,YES,Mobile,47923.9,T,F,F,F,F,F,F,T,F,F,F
+95479,M,Womens Sportwear,457.417,NO,Direct Mail,45741.7,F,F,F,T,T,F,F,T,F,F,T
+95488,F,Mens Career,119.753,NO,Mobile,11975.3,T,F,T,F,F,F,F,F,F,F,F
+95604,M,Womens Shoes,235.058,NO,Direct Mail,23505.8,F,F,F,T,T,T,T,T,F,T,F
+95655,F,Womens Shoes,255.805,NO,Email,25580.5,F,F,F,T,F,T,F,F,T,T,F
+95887,M,Home goods,431.964,NO,Email,43196.4,F,F,F,T,T,T,T,F,T,F,F
+95896,M,Womens Sportwear,372.821,YES,Mobile,37282.1,F,F,F,F,F,F,F,T,F,F,F
+95915,M,Womens Career,173.132,NO,Email,17313.2,F,F,F,T,T,T,T,F,F,F,F
+95921,F,Womens Shoes,348.576,YES,Email,34857.6,T,F,F,F,F,F,F,T,F,F,T
+96076,F,Womens Shoes,244.413,YES,Email,24441.3,F,F,F,T,F,F,F,F,F,T,T
+96078,M,Womens Career,104.612,NO,Email,10461.2,T,F,F,T,F,T,T,F,F,F,T
+96173,F,Womens Shoes,263.483,NO,Mobile,26348.3,F,F,F,F,F,F,F,F,T,F,F
+96289,M,Mens Casual,161.359,NO,Mobile,16135.9,T,F,F,T,F,T,T,F,F,F,F
+96333,M,Womens Shoes,275.586,NO,Mobile,27558.6,F,F,F,T,F,F,F,F,F,F,F
+96371,M,Womens Sportwear,402.238,YES,Email,40223.8,F,F,T,F,F,F,F,F,F,F,F
+96474,F,Womens Shoes,445.139,YES,Direct Mail,44513.9,F,F,F,F,F,F,F,F,F,F,F
+96512,F,Womens Career,378.721,NO,Mobile,37872.1,T,F,F,F,F,F,T,T,F,F,T
+96561,M,Womens Shoes,303.759,NO,Mobile,30375.9,F,F,F,F,F,F,F,F,F,F,F
+96584,M,Womens Career,173.355,YES,Email,17335.5,T,F,F,F,F,F,F,F,T,F,F
+96694,M,Womens Shoes,282.755,NO,Mobile,28275.5,F,F,F,T,F,F,F,F,F,T,F
+96881,M,Womens Shoes,146.112,YES,Mobile,14611.2,F,F,F,T,F,F,F,F,F,T,F
+96982,M,Mens Casual,154.964,YES,Mobile,15496.4,T,F,F,T,F,T,T,F,F,F,F
+97148,F,Mens Sportswear,493.472,NO,Mobile,49347.2,F,F,F,T,F,F,T,T,T,F,T
+97267,F,Mens Career,330.618,YES,Direct Mail,33061.8,F,F,F,F,F,F,F,F,F,T,T
+97287,M,Womens Shoes,353.706,NO,Direct Mail,35370.6,F,F,F,T,F,T,T,T,F,T,F
+97328,F,Mens Sportswear,240.255,YES,Email,24025.5,F,F,T,T,F,F,F,F,F,F,F
+97377,F,Womens Shoes,282.63,NO,Mobile,28263,F,F,F,F,F,F,T,F,F,F,F
+97512,F,Home goods,174.561,NO,Direct Mail,17456.1,F,T,F,F,F,F,F,F,T,F,F
+97761,F,Mens Casual,323.184,YES,Mobile,32318.4,T,T,T,T,F,F,F,T,F,T,T
+97967,F,Home goods,115.144,NO,Email,11514.4,F,F,F,F,F,F,F,F,T,T,F
+98023,F,Mens Casual,263.646,YES,Mobile,26364.6,F,F,F,F,F,T,F,F,F,T,F
+98181,F,Womens Sportwear,163.51,YES,Email,16351,F,F,T,F,F,F,F,F,T,F,T
+98204,M,Womens Shoes,184.421,YES,Direct Mail,18442.1,F,F,T,T,F,T,T,F,F,F,F
+98352,F,Mens Sportswear,460.629,NO,Mobile,46062.9,F,F,F,F,T,T,F,F,F,T,F
+98383,M,Mens Sportswear,338.642,NO,Email,33864.2,F,F,F,T,T,T,F,F,F,F,T
+98409,F,Mens Casual,326.006,NO,Email,32600.6,F,F,F,F,F,F,F,T,F,F,T
+98626,F,Womens Shoes,275.05,YES,Direct Mail,27505,F,F,T,T,F,F,F,F,F,T,T
+98635,F,Womens Shoes,339.481,YES,Email,33948.1,F,T,F,F,F,F,F,T,F,F,T
+98696,M,Womens Career,311.958,YES,Email,31195.8,F,F,F,F,F,F,F,T,F,F,T
+98809,F,Mens Career,455.905,NO,Mobile,45590.5,T,F,F,F,F,T,T,T,F,T,T
+98836,F,Womens Sportwear,386.026,YES,Email,38602.6,F,F,F,T,F,F,F,T,F,T,T
+99025,M,Womens Career,290.798,YES,Mobile,29079.8,F,T,F,F,F,F,F,F,F,F,F
+99046,M,Mens Sportswear,236.457,NO,Email,23645.7,F,F,F,F,F,F,T,F,T,F,F
+99164,M,Mens Casual,306.965,NO,Email,30696.5,F,F,T,F,F,F,F,F,T,F,T
+99292,F,Womens Shoes,398.99,NO,Mobile,39899,T,T,F,F,F,F,F,F,T,T,F
+99347,F,Home goods,346.651,YES,Mobile,34665.1,F,T,T,T,F,F,F,T,F,F,T
+99387,F,Mens Career,106.184,NO,Email,10618.4,F,T,F,F,T,F,F,F,F,F,T
+99410,F,Mens Casual,411.357,NO,Email,41135.7,F,F,T,F,F,F,F,F,F,F,F
+99457,F,Womens Shoes,382.007,NO,Mobile,38200.7,T,T,F,T,F,F,F,F,F,T,F
+99575,M,Womens Shoes,192.134,YES,Mobile,19213.4,F,F,F,F,F,T,F,F,F,T,F
+99578,M,Home goods,157.681,NO,Mobile,15768.1,F,F,F,F,T,F,F,F,T,F,T
+99624,F,Womens Shoes,209.334,NO,Direct Mail,20933.4,T,F,F,F,F,F,F,T,T,F,F
+99849,F,Womens Shoes,370.252,YES,Email,37025.2,T,F,T,F,F,F,F,F,F,F,F
+100047,F,Womens Career,241.955,NO,Direct Mail,24195.5,T,F,F,T,F,F,F,F,F,T,F
+100255,M,Womens Shoes,226.799,NO,Direct Mail,22679.9,F,F,F,F,F,F,F,T,F,F,F
+100256,M,Womens Shoes,119.099,NO,Direct Mail,11909.9,F,F,F,T,F,T,T,T,F,F,F
+100328,M,Home goods,304.099,YES,Direct Mail,30409.9,F,T,F,T,F,T,T,F,F,T,F
+100393,M,Womens Shoes,287.753,NO,Email,28775.3,T,F,F,T,F,F,F,F,F,T,T
+100553,M,Womens Shoes,241.456,NO,Mobile,24145.6,T,F,F,T,F,F,F,T,T,F,F
+100754,F,Home goods,113.294,NO,Direct Mail,11329.4,T,F,F,T,F,T,F,F,F,T,F
+100918,M,Mens Casual,184.9,YES,Email,18490,F,F,F,T,T,T,T,F,F,F,F
+101031,M,Womens Shoes,475.206,YES,Mobile,47520.6,F,F,F,T,F,T,T,F,F,F,F
+101100,M,Womens Shoes,189.591,YES,Mobile,18959.1,F,F,F,T,F,T,T,T,F,F,F
+101414,F,Mens Career,268.28,NO,Mobile,26828,F,F,F,F,F,F,F,T,F,F,F
+101544,M,Womens Career,385.665,NO,Mobile,38566.5,T,F,F,F,T,T,F,F,F,F,F
+101699,M,Mens Casual,151.186,YES,Mobile,15118.6,F,F,T,F,T,T,F,F,F,F,F
+101722,M,Mens Sportswear,157.228,NO,Direct Mail,15722.8,F,T,F,F,F,T,F,F,F,T,F
+101784,M,Womens Shoes,330.381,NO,Email,33038.1,F,F,F,T,T,F,F,F,F,F,F
+102206,F,Mens Career,276.682,NO,Mobile,27668.2,T,F,F,T,F,F,F,F,F,F,F
+102215,M,Womens Shoes,131.647,YES,Email,13164.7,F,F,F,T,F,T,T,F,F,F,F
+102348,M,Womens Shoes,149.206,YES,Mobile,14920.6,F,F,F,F,F,F,F,F,F,F,F
+102421,M,Home goods,192.276,YES,Email,19227.6,F,F,F,F,T,F,F,F,T,T,F
+102467,F,Womens Sportwear,137.623,YES,Mobile,13762.3,F,F,F,T,T,F,T,T,F,F,F
+102645,F,Mens Casual,134.218,YES,Mobile,13421.8,F,F,F,T,T,F,F,F,F,F,F
+102703,M,Mens Sportswear,400.432,YES,Mobile,40043.2,T,T,F,F,T,F,F,F,T,F,F
+102733,F,Womens Career,285.154,NO,Email,28515.4,T,F,F,F,F,F,F,F,F,T,T
+102887,M,Womens Shoes,333.158,NO,Direct Mail,33315.8,T,F,F,F,F,T,F,F,F,F,F
+102934,F,Mens Career,377.352,NO,Direct Mail,37735.2,T,F,F,F,F,F,F,T,F,F,T
+103087,M,Womens Career,385.78,YES,Email,38578,F,T,F,T,F,T,T,T,F,F,F
+103139,F,Home goods,187.964,YES,Email,18796.4,F,T,F,T,F,F,F,T,F,F,F
+103147,M,Womens Shoes,438.622,YES,Mobile,43862.2,F,F,F,T,F,F,F,F,F,F,F
+103166,F,Womens Career,255.922,NO,Email,25592.2,F,T,T,F,F,F,F,T,F,F,F
+103168,F,Mens Sportswear,122.678,YES,Mobile,12267.8,T,F,F,T,F,F,T,T,T,F,T
+103316,M,Womens Shoes,293.125,YES,Email,29312.5,F,T,F,F,F,F,F,F,F,F,T
+103325,F,Home goods,462.279,NO,Mobile,46227.9,F,F,F,F,F,T,F,F,F,F,F
+103385,M,Mens Casual,228.296,NO,Email,22829.6,T,T,F,T,F,T,T,F,F,T,F
+103446,M,Womens Sportwear,253.568,YES,Mobile,25356.8,F,F,T,F,T,F,F,F,F,F,F
+103462,F,Mens Career,403.384,YES,Email,40338.4,T,F,F,F,F,F,T,T,F,F,T
+103473,F,Mens Career,250.338,YES,Direct Mail,25033.8,F,F,F,F,T,T,F,F,F,F,F
+103485,M,Home goods,236.343,YES,Email,23634.3,F,F,F,F,F,F,T,F,F,F,F
+103546,M,Mens Career,455.893,NO,Mobile,45589.3,F,F,F,F,F,F,F,F,F,F,F
+103596,F,Mens Sportswear,274.252,NO,Mobile,27425.2,F,F,F,F,T,F,F,F,T,F,F
+103708,F,Womens Shoes,260.61,YES,Email,26061,F,F,F,F,F,F,F,T,F,T,F
+103749,F,Womens Shoes,347.506,YES,Mobile,34750.6,F,F,T,F,F,F,F,F,F,T,F
+104011,F,Mens Sportswear,195.891,NO,Mobile,19589.1,F,F,F,F,F,F,F,T,T,F,F
+104111,F,Home goods,274.529,YES,Mobile,27452.9,F,F,T,F,F,F,F,F,F,T,T
+104165,M,Mens Casual,322.963,NO,Mobile,32296.3,F,F,F,F,F,F,F,T,F,F,F
+104327,F,Womens Career,262.23,NO,Direct Mail,26223,F,F,F,T,F,F,F,T,F,F,F
+104554,M,Mens Sportswear,190.629,NO,Email,19062.9,T,F,F,T,F,T,T,F,F,T,F
+104630,F,Mens Casual,496.887,YES,Mobile,49688.7,T,F,F,F,F,F,F,T,F,F,T
+104722,M,Womens Sportwear,336.677,YES,Mobile,33667.7,F,F,F,T,F,T,T,F,F,F,F
+104800,M,Mens Career,132.577,NO,Mobile,13257.7,F,F,F,F,F,F,T,F,F,F,F
+104830,F,Womens Career,214.266,NO,Email,21426.6,F,T,F,F,F,F,F,F,F,T,F
+104903,F,Womens Shoes,344.437,NO,Email,34443.7,T,F,F,F,F,F,F,T,F,F,T
+104971,F,Womens Sportwear,357.501,YES,Direct Mail,35750.1,F,F,F,F,F,F,F,T,T,F,T
+104988,M,Home goods,243.263,NO,Email,24326.3,F,F,F,F,T,F,F,F,F,F,F
+105007,F,Womens Shoes,446.825,NO,Mobile,44682.5,F,F,T,F,F,F,F,T,F,F,T
+105095,F,Mens Sportswear,480.785,YES,Email,48078.5,F,T,F,F,F,F,F,F,T,F,F
+105188,M,Womens Shoes,443.619,YES,Email,44361.9,F,F,F,F,F,F,F,F,T,F,F
+105225,M,Womens Sportwear,285.341,NO,Email,28534.1,T,F,T,F,F,F,F,F,F,F,T
+105412,M,Womens Shoes,183.099,NO,Email,18309.9,F,F,F,F,F,F,T,F,F,F,F
+105429,M,Mens Sportswear,152.94,NO,Email,15294,T,T,F,F,F,T,F,F,F,F,F
+105601,M,Mens Casual,407.653,YES,Mobile,40765.3,F,F,F,T,T,T,T,F,F,F,F
+105816,F,Mens Sportswear,226.473,NO,Mobile,22647.3,T,F,T,T,F,F,F,F,F,F,F
+105829,F,Womens Shoes,270.835,YES,Direct Mail,27083.5,F,T,F,F,F,T,F,F,F,F,F
+106004,M,Womens Shoes,319.126,YES,Email,31912.6,F,F,F,F,F,F,F,T,T,F,F
+106044,M,Womens Shoes,361.337,NO,Mobile,36133.7,T,F,F,T,F,T,T,T,F,T,F
+106122,M,Womens Career,323.362,YES,Email,32336.2,F,F,T,F,F,F,F,T,F,F,F
+106288,F,Womens Sportwear,100.926,YES,Direct Mail,10092.6,F,F,F,T,F,F,F,F,F,F,T
+106290,M,Womens Shoes,330.487,YES,Direct Mail,33048.7,F,F,T,F,F,F,F,F,F,F,F
+106314,F,Womens Shoes,241.036,NO,Email,24103.6,F,F,F,T,T,F,F,F,F,F,F
+106489,F,Home goods,140.777,YES,Mobile,14077.7,F,F,F,F,F,F,F,F,F,F,F
+106494,F,Mens Casual,465.812,YES,Mobile,46581.2,T,F,F,F,F,F,T,T,F,F,F
+106499,M,Womens Career,269.588,YES,Email,26958.8,F,F,F,T,F,T,T,F,F,F,F
+106522,M,Womens Career,100.07,YES,Direct Mail,10007,F,F,F,T,F,T,T,F,F,F,F
+106531,M,Mens Sportswear,116.576,NO,Email,11657.6,T,F,F,F,F,T,F,F,F,T,F
+106585,M,Mens Casual,236.473,NO,Email,23647.3,F,F,F,T,T,F,T,F,F,F,F
+106649,F,Womens Shoes,258.123,NO,Mobile,25812.3,T,F,F,F,F,F,T,F,F,T,F
+106654,M,Home goods,479.564,YES,Direct Mail,47956.4,F,F,F,F,F,T,F,F,T,F,F
+106792,M,Womens Shoes,374.77,NO,Email,37477,F,F,F,F,F,F,F,F,F,F,F
+107080,F,Mens Sportswear,294.064,NO,Mobile,29406.4,F,F,F,T,F,F,F,F,F,F,F
+107314,M,Womens Sportwear,429.349,NO,Email,42934.9,F,F,F,T,F,T,T,T,F,F,F
+107499,F,Womens Career,123.961,YES,Email,12396.1,F,F,F,F,F,F,F,T,T,F,F
+107505,F,Mens Career,213.633,YES,Email,21363.3,F,F,F,F,F,F,F,F,F,F,T
+107714,F,Womens Sportwear,221.969,YES,Mobile,22196.9,T,T,T,F,T,F,F,F,T,F,F
+107728,F,Mens Sportswear,169.603,NO,Direct Mail,16960.3,F,T,F,F,F,T,T,T,F,F,F
+107876,M,Mens Sportswear,218.933,NO,Direct Mail,21893.3,F,F,F,F,F,F,T,T,F,T,F
+108003,F,Womens Shoes,125.105,NO,Mobile,12510.5,F,F,F,T,F,F,F,T,F,T,F
+108153,F,Womens Sportwear,205.804,NO,Email,20580.4,F,F,F,F,F,F,F,F,T,F,T
+108596,M,Mens Career,393.3,NO,Mobile,39330,F,F,F,F,T,F,T,F,F,F,F
+108601,M,Mens Sportswear,141.216,NO,Email,14121.6,F,F,F,F,F,F,F,T,F,T,F
+108718,M,Mens Casual,156.206,YES,Email,15620.6,F,F,F,F,F,F,T,F,F,T,F
+108739,M,Womens Shoes,109.737,NO,Email,10973.7,T,F,F,F,F,F,F,T,T,F,T
+108764,M,Womens Shoes,446.294,YES,Email,44629.4,F,F,F,T,F,T,T,T,F,T,F
+108832,F,Home goods,278.603,NO,Direct Mail,27860.3,F,F,F,F,F,F,F,F,F,T,F
+108855,F,Womens Sportwear,328.419,YES,Mobile,32841.9,F,F,F,F,T,F,F,T,T,T,T
+109000,F,Womens Career,149.647,YES,Email,14964.7,F,F,F,T,T,F,F,T,T,F,F
+109048,M,Womens Sportwear,425.797,NO,Mobile,42579.7,T,F,F,T,F,F,T,T,F,T,F
+109061,F,Mens Career,373.485,NO,Email,37348.5,F,T,F,F,F,F,F,T,F,F,T
+109132,F,Home goods,302.881,YES,Email,30288.1,F,T,F,F,F,F,F,F,T,F,F
+109224,M,Womens Shoes,200.952,NO,Direct Mail,20095.2,T,F,F,F,F,F,T,F,F,T,F
+109376,M,Home goods,431.101,YES,Email,43110.1,F,F,F,F,F,F,F,T,F,F,F
+109425,F,Mens Career,232.353,YES,Mobile,23235.3,F,F,F,F,T,F,F,T,F,F,F
+109504,M,Womens Career,328.441,YES,Mobile,32844.1,F,T,T,F,F,F,F,F,F,F,T
+109530,M,Womens Sportwear,374.844,NO,Mobile,37484.4,F,T,F,T,F,F,F,F,F,T,F
+109551,M,Mens Career,406.114,YES,Email,40611.4,F,F,F,F,F,F,T,T,F,F,F
+109583,M,Womens Career,410.085,NO,Mobile,41008.5,F,F,F,F,F,F,F,F,F,F,F
+109672,M,Mens Casual,165.297,YES,Mobile,16529.7,F,F,F,T,F,T,T,T,F,F,F
+109798,M,Womens Sportwear,151.33,YES,Email,15133,F,F,F,F,F,T,F,F,F,F,F
+109884,F,Mens Career,358.216,NO,Mobile,35821.6,T,F,F,F,T,T,F,F,T,T,T
